@@ -18,6 +18,7 @@ let package = Package(
         .target(
             name: "Core",
             path: "iOS/DoraemonKit/Src/Core",
+            exclude: ["Plugin/Platform/FileSync/"],
             cSettings: [
               .headerSearchPath("../../../"),
               .headerSearchPath("Manager"),
