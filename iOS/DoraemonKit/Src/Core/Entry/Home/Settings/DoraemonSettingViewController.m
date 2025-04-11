@@ -5,13 +5,13 @@
 //  Created by didi on 2020/4/24.
 //
 
-#import "DoraemonSettingViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonKitManagerViewController.h"
-#import "DoraemonSettingCell.h"
-#import "DoraemonDefaultWebViewController.h"
-#import "UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/DoraemonSettingViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/DoraemonKitManagerViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/DoraemonSettingCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonDefaultWebViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
 
 @interface DoraemonSettingViewController ()<DoraemonCellButtonDelegate, UITableViewDelegate, UITableViewDataSource>
 

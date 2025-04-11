@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/1/4.
 //
 
-#import "DoraemonOscillogramViewController.h"
-#import "DoraemonOscillogramWindowManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindowManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 
 @interface DoraemonOscillogramViewController ()

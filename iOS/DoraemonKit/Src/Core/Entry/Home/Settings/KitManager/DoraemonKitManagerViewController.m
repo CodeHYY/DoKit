@@ -5,14 +5,14 @@
 //  Created by didi on 2020/4/24.
 //
 
-#import "DoraemonKitManagerViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonKitManagerCell.h"
-#import "DoraemonManager.h"
-#import "UIViewController+Doraemon.h"
-#import "DoraemonKitManagerHeadCell.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonNavBarItemModel.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/DoraemonKitManagerViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerCell.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerHeadCell.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
 
 static NSString *DoraemonKitManagerCellID = @"DoraemonKitManagerCellID";
 static NSString *DoraemonKitManagerHeadCellID = @"DoraemonKitManagerHeadCellID";

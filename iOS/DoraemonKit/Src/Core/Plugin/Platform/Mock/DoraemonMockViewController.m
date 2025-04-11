@@ -5,13 +5,13 @@
 //  Created by didi on 2019/10/23.
 //
 
-#import "DoraemonMockViewController.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/DoraemonMockViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
-#import "DoraemonMockUploadViewController.h"
-#import "DoraemonMockAPIViewController.h"
-#import "DoraemonMockManager.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/DoraemonMockUploadViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/DoraemonMockAPIViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @interface DoraemonMockViewController()
 

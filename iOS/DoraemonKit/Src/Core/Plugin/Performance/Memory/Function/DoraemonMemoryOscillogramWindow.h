@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindow.h"
 
 @interface DoraemonMemoryOscillogramWindow : DoraemonOscillogramWindow
 

@@ -5,9 +5,9 @@
 //  Created by yixiang on 2019/7/17.
 //
 
-#import "DoraemonStartTimePlugin.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonStartTimeViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/StartTime/DoraemonStartTimePlugin.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/StartTime/DoraemonStartTimeViewController.h"
 
 @implementation DoraemonStartTimePlugin
 

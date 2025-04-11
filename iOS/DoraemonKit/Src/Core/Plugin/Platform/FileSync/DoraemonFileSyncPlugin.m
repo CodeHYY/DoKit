@@ -5,13 +5,13 @@
 //  Created by didi on 2020/6/10.
 //
 
-#import "DoraemonFileSyncPlugin.h"
-#import "DoraemonManager.h"
-#import "DoraemonFileSyncViewController.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonToastUtil.h"
-#import "UIViewController+Doraemon.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/DoraemonFileSyncPlugin.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/DoraemonFileSyncViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @implementation DoraemonFileSyncPlugin
 

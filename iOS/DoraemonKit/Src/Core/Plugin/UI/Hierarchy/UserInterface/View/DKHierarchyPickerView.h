@@ -1,4 +1,4 @@
-#import <DoraemonKit/DKPickerView.h>
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKPickerView.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -1,5 +1,5 @@
-#import <DoraemonKit/DKPickerView.h>
-#import <DoraemonKit/UIImage+Doraemon.h>
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKPickerView.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

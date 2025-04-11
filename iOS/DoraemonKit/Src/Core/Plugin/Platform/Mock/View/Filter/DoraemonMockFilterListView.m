@@ -5,9 +5,9 @@
 //  Created by didi on 2019/10/24.
 //
 
-#import "DoraemonMockFilterListView.h"
-#import "DoraemonMockFilterTableCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/Filter/DoraemonMockFilterListView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/Filter/DoraemonMockFilterTableCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonMockFilterListView()<UITableViewDataSource,UITableViewDelegate>
 

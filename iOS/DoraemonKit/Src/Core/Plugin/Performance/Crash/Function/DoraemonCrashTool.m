@@ -5,7 +5,7 @@
 //  Created by wenquan on 2018/11/22.
 //
 
-#import "DoraemonCrashTool.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashTool.h"
 
 @implementation DoraemonCrashTool
 

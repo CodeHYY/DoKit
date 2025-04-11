@@ -5,9 +5,9 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyDetailTitleCell.h"
-#import "DoraemonHierarchyCellModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Cell/DoraemonHierarchyDetailTitleCell.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCellModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHierarchyDetailTitleCell ()
 

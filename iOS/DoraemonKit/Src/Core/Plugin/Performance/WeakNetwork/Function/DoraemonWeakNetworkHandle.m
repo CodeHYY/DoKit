@@ -5,9 +5,9 @@
 //  Created by didi on 2019/12/12.
 //
 
-#import "DoraemonWeakNetworkHandle.h"
-#import "DoraemonWeakNetworkManager.h"
-#import "DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkHandle.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
 
 @interface DoraemonWeakNetworkHandle()
 

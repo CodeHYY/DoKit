@@ -5,8 +5,8 @@
 //  Created by didi on 2020/4/28.
 //
 
-#import "DoraemonKitManagerResetCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerResetCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonKitManagerResetCell()
 

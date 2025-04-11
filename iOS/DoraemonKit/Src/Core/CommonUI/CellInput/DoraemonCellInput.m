@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/12/7.
 //
 
-#import "DoraemonCellInput.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellInput/DoraemonCellInput.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonCellInput()
 

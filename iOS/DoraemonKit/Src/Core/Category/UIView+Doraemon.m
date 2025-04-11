@@ -5,7 +5,7 @@
 //  Created by xgb on 2018/11/15.
 //
 
-#import "UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
 
 #define Doraemon_SCREEN_SCALE                    ([[UIScreen mainScreen] scale])
 #define Doraemon_PIXEL_INTEGRAL(pointValue)      (round(pointValue * Doraemon_SCREEN_SCALE) / Doraemon_SCREEN_SCALE)

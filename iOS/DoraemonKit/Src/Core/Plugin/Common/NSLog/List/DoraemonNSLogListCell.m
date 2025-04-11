@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/11/26.
 //
 
-#import "DoraemonNSLogListCell.h"
-#import "DoraemonDefine.h"
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogListCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 @interface DoraemonNSLogListCell()
 

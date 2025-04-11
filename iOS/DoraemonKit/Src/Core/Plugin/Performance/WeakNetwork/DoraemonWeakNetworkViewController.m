@@ -5,14 +5,14 @@
 //  Created by didi on 2019/11/21.
 //
 
-#import "DoraemonWeakNetworkViewController.h"
-#import "DoraemonWeakNetworkManager.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonWeakNetworkDetailView.h"
-#import "DoraemonDefine.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonWeakNetworkWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/DoraemonWeakNetworkViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/DoraemonWeakNetworkDetailView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/Window/DoraemonWeakNetworkWindow.h"
 
 @interface DoraemonWeakNetworkViewController()<DoraemonWeakNetworkWindowDelegate>
 

@@ -5,10 +5,10 @@
 //  Created by didi on 2020/1/2.
 //
 
-#import "DoraemonHealthInstructionsView.h"
-#import "DoraemonHealthInstructionsCell.h"
-#import "DoraemonHealthManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Instructions/DoraemonHealthInstructionsView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Instructions/DoraemonHealthInstructionsCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthInstructionsView()<UITableViewDataSource,UITableViewDelegate>
 

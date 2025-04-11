@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonMemoryUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryUtil.h"
 #include <mach/mach.h>
 
 @implementation DoraemonMemoryUtil

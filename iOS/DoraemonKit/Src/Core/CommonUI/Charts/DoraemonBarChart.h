@@ -7,10 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonChart.h"
-#import "DoraemonXAxis.h"
-#import "DoraemonYAxis.h"
-#import "DoraemonChartDataItem.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonChart.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonXAxis.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonYAxis.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonChartDataItem.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

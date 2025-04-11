@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/6/14.
 //
 
-#import "DoraemonANRTracker.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTracker.h"
 #import "sys/utsname.h"
 
 /**

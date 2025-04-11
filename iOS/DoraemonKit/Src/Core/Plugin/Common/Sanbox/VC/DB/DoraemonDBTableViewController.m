@@ -5,11 +5,11 @@
 //  Created by yixiang on 2019/3/31.
 //
 
-#import "DoraemonDBTableViewController.h"
-#import "DoraemonDBManager.h"
-#import "DoraemonDBRowView.h"
-#import "DoraemonDBCell.h"
-#import "DoraemonDBShowView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBTableViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/Util/DoraemonDBManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBRowView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBShowView.h"
 
 @interface DoraemonDBTableViewController ()<UITableViewDelegate , UITableViewDataSource , DoraemonDBRowViewTypeDelegate>
 

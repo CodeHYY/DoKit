@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/16.
 //
 
-#import "DoraemonViewAlignManager.h"
-#import "DoraemonDefine.h"
-#import "DoraemonViewAlignView.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewAlign/Function/DoraemonViewAlignManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewAlign/Function/DoraemonViewAlignView.h"
 
 
 @interface DoraemonViewAlignManager()

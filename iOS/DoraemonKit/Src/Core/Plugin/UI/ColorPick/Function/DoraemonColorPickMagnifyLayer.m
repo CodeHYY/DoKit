@@ -5,9 +5,9 @@
 //  Created by wenquan on 2019/1/31.
 //
 
-#import "DoraemonColorPickMagnifyLayer.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickMagnifyLayer.h"
 
-#import <DoraemonKit/UIColor+Doraemon.h>
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 static CGFloat const kMagnifySize = 150; // 放大镜尺寸
 static CGFloat const kRimThickness = 3.0; // 放大镜边缘的厚度

@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "DoraemonSubThreadUICheckDetailViewController.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/Detail/DoraemonSubThreadUICheckDetailViewController.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonSubThreadUICheckDetailViewController ()
 

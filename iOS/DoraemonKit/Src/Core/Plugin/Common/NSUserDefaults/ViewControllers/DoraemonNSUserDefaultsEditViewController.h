@@ -5,8 +5,8 @@
 //  Created by 0xd-cc on 2019/11/26.
 //
 
-#import <DoraemonKit/DoraemonKit.h>
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/include/DoraemonKit.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 @class DoraemonNSUserDefaultsModel;
 
 NS_ASSUME_NONNULL_BEGIN

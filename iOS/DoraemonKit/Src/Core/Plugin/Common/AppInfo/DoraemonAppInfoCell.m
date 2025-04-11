@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/4/14.
 //
 
-#import "DoraemonAppInfoCell.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoCell.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonAppInfoCell()
 

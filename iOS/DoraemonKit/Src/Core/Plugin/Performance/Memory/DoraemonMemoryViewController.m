@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonMemoryViewController.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonMemoryOscillogramWindow.h"
-#import "DoraemonMemoryOscillogramViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/DoraemonMemoryViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonMemoryViewController ()<DoraemonSwitchViewDelegate, DoraemonOscillogramWindowDelegate>
 

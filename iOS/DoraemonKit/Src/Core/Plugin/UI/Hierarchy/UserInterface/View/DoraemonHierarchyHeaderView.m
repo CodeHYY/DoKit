@@ -5,8 +5,8 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyHeaderView.h"
-#import "UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DoraemonHierarchyHeaderView.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
 
 @interface DoraemonHierarchyHeaderView ()
 

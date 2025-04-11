@@ -5,9 +5,9 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "DoraemonSandboxPlugin.h"
-#import "DoraemonSandboxViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/DoraemonSandboxPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonSandboxPlugin
 

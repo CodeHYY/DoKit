@@ -5,17 +5,17 @@
 //  Created by yixiang on 2019/7/17.
 //
 
-#import "DoraemonStartTimeViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCacheManager.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/StartTime/DoraemonStartTimeViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 #import <objc/runtime.h>
-#import "DoraemonHealthManager.h"
-#import "DoraemonTimeProfiler.h"
-#import "DoraemonStartTimeProfilerViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/TimeProfiler/Function/DoraemonTimeProfiler.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/StartTime/TimeProfiler/DoraemonStartTimeProfilerViewController.h"
 
 static NSTimeInterval startTime;
 static NSTimeInterval endTime;

@@ -5,11 +5,11 @@
 //  Created by didi on 2019/12/16.
 //
 
-#import "DoraemonWeakNetworkDetailView.h"
-#import "DoraemonWeakNetworkManager.h"
-#import "DoraemonWeakNetworkLevelView.h"
-#import "DoraemonWeakNetworkInputView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/DoraemonWeakNetworkDetailView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/DoraemonWeakNetworkLevelView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/DoraemonWeakNetworkInputView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonWeakNetworkDetailView()<DoraemonWeakNetworkLevelViewDelegate>
 

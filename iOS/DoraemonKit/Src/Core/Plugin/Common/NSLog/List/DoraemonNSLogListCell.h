@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonNSLogModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

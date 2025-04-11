@@ -9,14 +9,14 @@
 #ifndef DoraemonDefine_h
 #define DoraemonDefine_h
 
-#import "DoraemonAppInfoUtil.h"
-#import "UIColor+Doraemon.h"
-#import "UIView+Doraemon.h"
-#import "UIImage+Doraemon.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonAlertUtil.h"
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/Alert/DoraemonAlertUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 #define DoKitVersion @"3.0.8"
 #define DoKitKbChange(x) x * 1000

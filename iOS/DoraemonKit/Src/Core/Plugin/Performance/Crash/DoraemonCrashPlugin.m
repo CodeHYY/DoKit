@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/19.
 //
 
-#import "DoraemonCrashPlugin.h"
-#import "DoraemonCrashViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/DoraemonCrashPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/DoraemonCrashViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonCrashPlugin
 

@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/5/2.
 //
 
-#import "DoraemonNetFlowOscillogramViewController.h"
-#import "DoraemonOscillogramView.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonNetFlowOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramWindow.h"
 
 @interface DoraemonNetFlowOscillogramViewController ()
 

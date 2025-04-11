@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/4/13.
 //
 
-#import "DoraemonBaseViewController.h"
-#import "DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
 
 @interface DoraemonNetFlowDetailViewController : DoraemonBaseViewController
 

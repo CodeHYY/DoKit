@@ -5,15 +5,15 @@
 //  Created by 0xd-cc on 2019/5/15.
 //
 
-#import "DoraemonLargeImageViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonLargeImageDetectionManager.h"
-#import "DoraemonLargeImageDetectionListViewController.h"
-#import "DoraemonCellInput.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/DoraemonLargeImageViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/DoraemonLargeImageDetectionManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonLargeImageDetectionListViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellInput/DoraemonCellInput.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonLargeImageViewController() <DoraemonSwitchViewDelegate, DoraemonCellButtonDelegate>
 

@@ -5,7 +5,7 @@
 //  Created by didi on 2019/11/12.
 //
 
-#import "DoraemonMockAPIModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockAPIModel.h"
 
 @implementation DoraemonMockAPIModel
 

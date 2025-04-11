@@ -5,8 +5,8 @@
 //  Created by yixiang on 2019/4/1.
 //
 
-#import "DoraemonDBCell.h"
-#import "DoraemonDBRowView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBRowView.h"
 
 @interface DoraemonDBCell()
 

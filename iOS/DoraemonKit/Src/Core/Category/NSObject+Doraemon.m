@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/7/2.
 //
 
-#import "NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
 #import <objc/runtime.h>
 
 @implementation NSObject (Doraemon)

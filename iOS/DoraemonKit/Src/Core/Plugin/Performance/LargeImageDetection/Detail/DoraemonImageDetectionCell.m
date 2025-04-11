@@ -5,9 +5,9 @@
 //  Created by 0xd-cc on 2019/5/17.
 //
 
-#import "DoraemonImageDetectionCell.h"
-#import "DoraemonResponseImageModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonImageDetectionCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonResponseImageModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonImageDetectionCell()
 @property (nonatomic, strong) UIImageView *previewImageView;

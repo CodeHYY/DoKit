@@ -6,7 +6,7 @@
 //  Copyright © 2019 000. All rights reserved.
 //
 
-#import "DoraemonChartAxis.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonChartAxis.h"
 #import <CoreGraphics/CoreGraphics.h>
 
 @implementation DoraemonChartAxis

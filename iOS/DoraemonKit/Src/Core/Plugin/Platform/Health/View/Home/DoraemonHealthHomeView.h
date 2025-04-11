@@ -6,8 +6,8 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonHealthBtnView.h"
-#import "DoraemonHealthStartingTitle.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthBtnView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthStartingTitle.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

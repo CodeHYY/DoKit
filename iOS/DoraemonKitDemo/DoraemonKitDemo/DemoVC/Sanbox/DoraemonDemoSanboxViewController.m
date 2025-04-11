@@ -7,7 +7,7 @@
 //
 
 #import "DoraemonDemoSanboxViewController.h"
-#import <DoraemonKit/UIView+Doraemon.h>
+#import "UIView+Doraemon.h"
 #import "DoraemonDefine.h"
 #import <sqlite3.h>
 

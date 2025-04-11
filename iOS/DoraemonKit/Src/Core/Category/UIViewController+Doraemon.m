@@ -5,10 +5,10 @@
 //  Created by dengyouhua on 2019/9/5.
 //
 
-#import "UIViewController+Doraemon.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 @implementation UIViewController (Doraemon)
 

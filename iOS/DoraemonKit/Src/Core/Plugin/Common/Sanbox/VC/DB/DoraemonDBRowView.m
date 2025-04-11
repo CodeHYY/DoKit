@@ -5,8 +5,8 @@
 //  Created by yixiang on 2019/4/1.
 //
 
-#import "DoraemonDBRowView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBRowView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonDBRowView
 

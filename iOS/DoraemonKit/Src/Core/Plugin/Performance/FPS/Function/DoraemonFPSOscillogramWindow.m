@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonFPSOscillogramWindow.h"
-#import "DoraemonFPSOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramViewController.h"
 
 @implementation DoraemonFPSOscillogramWindow
 

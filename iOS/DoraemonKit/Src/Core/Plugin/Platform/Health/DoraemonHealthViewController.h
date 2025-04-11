@@ -5,7 +5,7 @@
 //  Created by didi on 2019/12/30.
 //
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

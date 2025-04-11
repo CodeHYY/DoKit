@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonChartDataItem.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonChartDataItem.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

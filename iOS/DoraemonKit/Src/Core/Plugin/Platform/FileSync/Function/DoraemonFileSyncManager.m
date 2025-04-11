@@ -5,14 +5,14 @@
 //  Created by didi on 2020/6/10.
 //
 
-#import "DoraemonFileSyncManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/Function/DoraemonFileSyncManager.h"
 #import <GCDWebServer/GCDWebServerRequest.h>
 #import <GCDWebServer/GCDWebServerDataRequest.h>
 #import <GCDWebServer/GCDWebServerDataResponse.h>
 #import <GCDWebServer/GCDWebServerMultiPartFormRequest.h>
 #import <GCDWebServer/GCDWebServerFileResponse.h>
 #import <FMDB/FMDB.h>
-#import "DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
 
 
 #define DK_SERVER_PORT 9002

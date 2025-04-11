@@ -5,7 +5,7 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
 
 @class DoraemonManager;
 @implementation UIImage (Doraemon)

@@ -5,7 +5,7 @@
 //  Created by yixiang on 2019/5/9.
 //
 
-#import "DoraemonFPSUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSUtil.h"
 #import <UIKit/UIKit.h>
 
 @interface DoraemonFPSUtil()

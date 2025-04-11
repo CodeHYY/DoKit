@@ -5,10 +5,10 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyPlugin.h"
-#import "DoraemonHierarchyWindow.h"
-#import "DoraemonHierarchyHelper.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/DoraemonHierarchyPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyHelper.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 
 @implementation DoraemonHierarchyPlugin

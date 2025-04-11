@@ -5,7 +5,7 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @class DoraemonHierarchyCategoryModel;
 

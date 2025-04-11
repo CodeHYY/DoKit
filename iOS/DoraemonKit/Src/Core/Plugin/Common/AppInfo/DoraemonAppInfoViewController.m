@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/4/13.
 //
 
-#import "DoraemonAppInfoViewController.h"
-#import "DoraemonAppInfoCell.h"
-#import "DoraemonDefine.h"
-#import "DoraemonAppInfoUtil.h"
-#import "Doraemoni18NUtil.h"
-#import "UIView+Doraemon.h"
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 #import <CoreTelephony/CTCellularData.h>
 #import <objc/runtime.h>
 

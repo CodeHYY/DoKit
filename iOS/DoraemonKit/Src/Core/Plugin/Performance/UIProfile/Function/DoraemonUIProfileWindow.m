@@ -5,9 +5,9 @@
 //  Created by xgb on 2019/8/1.
 //
 
-#import "DoraemonUIProfileWindow.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 #define kWindowWidth        220
 #define kExpandHeight       250

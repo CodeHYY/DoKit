@@ -5,9 +5,9 @@
 //  Created by wenquan on 2018/11/22.
 //
 
-#import "DoraemonCrashUncaughtExceptionHandler.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashUncaughtExceptionHandler.h"
 
-#import "DoraemonCrashTool.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashTool.h"
 
 // 记录之前的崩溃回调函数
 static NSUncaughtExceptionHandler *previousUncaughtExceptionHandler = NULL;

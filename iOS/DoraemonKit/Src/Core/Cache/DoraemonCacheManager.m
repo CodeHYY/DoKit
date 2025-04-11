@@ -5,10 +5,10 @@
 //  Created by yixiang on 2017/12/12.
 //
 
-#import "DoraemonCacheManager.h"
-#import "DoraemonManager.h"
-#import "DoraemonDefine.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 static NSString * const kDoraemonLoggerSwitchKey = @"doraemon_env_key";
 static NSString * const kDoraemonMockGPSSwitchKey = @"doraemon_mock_gps_key";

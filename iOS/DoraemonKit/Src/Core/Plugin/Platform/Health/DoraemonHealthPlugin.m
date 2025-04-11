@@ -5,13 +5,13 @@
 //  Created by didi on 2019/12/30.
 //
 
-#import "DoraemonHealthPlugin.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonHealthViewController.h"
-#import "DoraemonManager.h"
-#import "DoraemonToastUtil.h"
-#import "UIViewController+Doraemon.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/DoraemonHealthPlugin.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/DoraemonHealthViewController.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @implementation DoraemonHealthPlugin
 

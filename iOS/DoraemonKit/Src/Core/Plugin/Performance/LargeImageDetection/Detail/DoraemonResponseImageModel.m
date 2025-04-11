@@ -5,8 +5,8 @@
 //  Created by 0xd-cc on 2019/5/16.
 //
 
-#import "DoraemonResponseImageModel.h"
-#import "DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonResponseImageModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
 
 @implementation DoraemonResponseImageModel
 - (instancetype)initWithResponse: (NSURLResponse *)response data:(NSData *) data {

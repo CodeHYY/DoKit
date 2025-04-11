@@ -5,16 +5,16 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyViewController.h"
-#import "DoraemonHierarchyDetailViewController.h"
-#import "UIViewController+DoraemonHierarchy.h"
-#import "DKHierarchyPickerView.h"
-#import "NSObject+DoraemonHierarchy.h"
-#import "DKHierarchyInfoView.h"
-#import "DoraemonHierarchyHelper.h"
-#import "DoraemonHierarchyWindow.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyDetailViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIViewController+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKHierarchyPickerView.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/NSObject+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKHierarchyInfoView.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyHelper.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHierarchyViewController ()<DKHierarchyViewDelegate, DKHierarchyInfoViewDelegate>
 

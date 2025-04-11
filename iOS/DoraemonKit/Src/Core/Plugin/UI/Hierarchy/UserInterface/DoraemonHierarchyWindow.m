@@ -5,9 +5,9 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyWindow.h"
-#import "DoraemonHierarchyViewController.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHierarchyWindow ()
 

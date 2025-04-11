@@ -6,10 +6,10 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonMockBaseModel.h"
-#import "DoraemonDefine.h"
-#import "DoraemonMockDetailSwitch.h"
-#import "DoraemonMockUpLoadModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockBaseModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/DoraemonMockDetailSwitch.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockUpLoadModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

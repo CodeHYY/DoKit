@@ -5,7 +5,7 @@
 //  Created by didi on 2020/2/26.
 //
 
-#import "DoraemonCopyLabel.h"
+#import "DoraemonKit/Src/Core/CommonUI/Label/DoraemonCopyLabel.h"
 
 @implementation DoraemonCopyLabel
 

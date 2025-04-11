@@ -6,8 +6,8 @@
 //
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
-#import "DoraemonMockAPIModel.h"
-#import "DoraemonMockUpLoadModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockAPIModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockUpLoadModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 @interface DoraemonMockManager : NSObject

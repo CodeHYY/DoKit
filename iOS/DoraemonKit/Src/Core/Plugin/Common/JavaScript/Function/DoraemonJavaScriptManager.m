@@ -5,12 +5,12 @@
 //  Created by carefree on 2022/5/11.
 //
 
-#import "DoraemonJavaScriptManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/Function/DoraemonJavaScriptManager.h"
 #import <WebKit/WebKit.h>
-#import "DoraemonDefine.h"
-#import "DoraemonHomeWindow.h"
-#import "UIViewController+Doraemon.h"
-#import "DoraemonJavaScriptViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/DoraemonJavaScriptViewController.h"
 
 @interface DoraemonJavaScriptManager ()
 

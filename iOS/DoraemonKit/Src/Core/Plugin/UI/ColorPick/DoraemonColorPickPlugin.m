@@ -5,10 +5,10 @@
 //  Created by yixiang on 2018/3/5.
 //
 
-#import "DoraemonColorPickPlugin.h"
-#import "DoraemonColorPickWindow.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonColorPickInfoWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/DoraemonColorPickPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickWindow.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickInfoWindow.h"
 
 @implementation DoraemonColorPickPlugin
 

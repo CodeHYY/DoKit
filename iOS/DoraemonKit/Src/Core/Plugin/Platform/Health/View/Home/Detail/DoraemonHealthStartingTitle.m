@@ -5,8 +5,8 @@
 //  Created by didi on 2020/1/2.
 //
 
-#import "DoraemonHealthStartingTitle.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthStartingTitle.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthStartingTitle()
 

@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/5/16.
 //
 
-#import "DoraemonHomeWindow.h"
-#import "DoraemonDefine.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonHomeViewController.h"
-#import "DoraemonNavigationController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonNavigationController.h"
 
 @interface DoraemonHomeWindow()
 

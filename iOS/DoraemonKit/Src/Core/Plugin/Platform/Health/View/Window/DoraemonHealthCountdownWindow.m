@@ -5,9 +5,9 @@
 //  Created by didi on 2020/1/9.
 //
 
-#import "DoraemonHealthCountdownWindow.h"
-#import "DoraemonStatusBarViewController.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Window/DoraemonHealthCountdownWindow.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonStatusBarViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthCountdownWindow()
 

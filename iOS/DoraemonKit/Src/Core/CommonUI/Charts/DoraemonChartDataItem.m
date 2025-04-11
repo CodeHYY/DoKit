@@ -6,7 +6,7 @@
 //  Copyright © 2019 000. All rights reserved.
 //
 
-#import "DoraemonChartDataItem.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonChartDataItem.h"
 
 @implementation DoraemonChartDataItem
 

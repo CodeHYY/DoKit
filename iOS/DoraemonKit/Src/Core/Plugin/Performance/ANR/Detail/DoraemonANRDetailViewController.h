@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/6/16.
 //
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @interface DoraemonANRDetailViewController : DoraemonBaseViewController
 

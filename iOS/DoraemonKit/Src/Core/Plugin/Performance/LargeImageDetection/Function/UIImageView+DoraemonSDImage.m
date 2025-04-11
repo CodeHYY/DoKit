@@ -6,10 +6,10 @@
 //
 
 #if __has_include(<SDWebImage/UIImageView+WebCache.h>)
-#import "UIImageView+DoraemonSDImage.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/UIImageView+DoraemonSDImage.h"
 //#import <SDWebImage/UIImageView+WebCache.h>
-#import "NSObject+Doraemon.h"
-#import "DoraemonLargeImageDetectionManager.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/DoraemonLargeImageDetectionManager.h"
 #import <objc/runtime.h>
 
 @implementation UIImageView (DoraemonSDImage)

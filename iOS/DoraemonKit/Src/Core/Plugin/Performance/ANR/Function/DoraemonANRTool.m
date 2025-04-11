@@ -6,7 +6,7 @@
 //  
 //
 
-#import "DoraemonANRTool.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTool.h"
 
 @implementation DoraemonANRTool
 

@@ -5,9 +5,9 @@
 //  Created by 0xd-cc on 2019/11/26.
 //
 
-#import "DoraemonNSUserDefaultsEditViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonNSUserDefaultsModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSUserDefaults/ViewControllers/DoraemonNSUserDefaultsEditViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSUserDefaults/Model/DoraemonNSUserDefaultsModel.h"
 
 @interface DoraemonNSUserDefaultsEditViewController ()
 @property (nonatomic, strong) UITextView *keyTextView;

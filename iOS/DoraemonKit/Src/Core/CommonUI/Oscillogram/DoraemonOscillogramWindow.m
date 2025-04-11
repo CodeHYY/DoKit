@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/1/3.
 //
 
-#import "DoraemonOscillogramWindow.h"
-#import "DoraemonOscillogramViewController.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "DoraemonOscillogramWindowManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindowManager.h"
 
 @interface DoraemonOscillogramWindow()
 

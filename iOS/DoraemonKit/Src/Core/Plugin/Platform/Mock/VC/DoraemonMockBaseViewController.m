@@ -5,9 +5,9 @@
 //  Created by didi on 2019/11/7.
 //
 
-#import "DoraemonMockBaseViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/DoraemonMockBaseViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
 
 @interface DoraemonMockBaseViewController ()<DoraemonMockSearchViewDelegate,DoraemonMockFilterButtonDelegate,DoraemonMockFilterBgroundDelegate>
 @property (nonatomic, assign) CGFloat padding_left;

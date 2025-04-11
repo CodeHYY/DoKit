@@ -5,14 +5,14 @@
 //  Created by 0xd-cc on 2019/5/15.
 //
 
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonNSURLProtocol.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonLargeImageDetectionManager.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "DoraemonNetFlowHttpModel.h"
-#import "DoraemonResponseImageModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNSURLProtocol.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/DoraemonLargeImageDetectionManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonResponseImageModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import<CommonCrypto/CommonDigest.h>
 static DoraemonNetworkInterceptor *instance = nil;
 

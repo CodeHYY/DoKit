@@ -5,8 +5,8 @@
 //  Created by didi on 2020/4/28.
 //
 
-#import "DoraemonKitManagerCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonKitManagerCell()
 

@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/5/2.
 //
 
-#import "DoraemonNetFlowOscillogramWindow.h"
-#import "DoraemonNetFlowOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramViewController.h"
 
 @implementation DoraemonNetFlowOscillogramWindow
 

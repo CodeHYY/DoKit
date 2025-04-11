@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonPluginProtocol.h"
+#import "DoraemonKit/Src/Core/Plugin/Protocol/DoraemonPluginProtocol.h"
 
 @interface DoraemonH5Plugin : NSObject<DoraemonPluginProtocol>
 

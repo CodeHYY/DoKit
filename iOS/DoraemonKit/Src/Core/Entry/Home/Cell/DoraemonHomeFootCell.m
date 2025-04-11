@@ -5,7 +5,7 @@
 //  Created by dengyouhua on 2019/9/4.
 //
 
-#import "DoraemonHomeFootCell.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeFootCell.h"
 
 @implementation DoraemonHomeFootCell
 

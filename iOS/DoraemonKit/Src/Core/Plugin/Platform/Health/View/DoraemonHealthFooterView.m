@@ -5,8 +5,8 @@
 //  Created by didi on 2020/1/1.
 //
 
-#import "DoraemonHealthFooterView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/DoraemonHealthFooterView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthFooterView ()
 

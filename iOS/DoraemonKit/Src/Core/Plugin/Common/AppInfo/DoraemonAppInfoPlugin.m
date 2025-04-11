@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/4/13.
 //
 
-#import "DoraemonAppInfoPlugin.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonAppInfoViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoPlugin.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoViewController.h"
 
 @implementation DoraemonAppInfoPlugin
 

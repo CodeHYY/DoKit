@@ -5,14 +5,14 @@
 //  Created by yixiang on 2018/4/13.
 //
 
-#import "DoraemonNetFlowDetailViewController.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonNetFlowDetailCell.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonUrlUtil.h"
-#import "DoraemonUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonNetFlowDetailSegment.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailCell.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailSegment.h"
 
 typedef NS_ENUM(NSUInteger, NetFlowSelectState) {
     NetFlowSelectStateForRequest = 0,

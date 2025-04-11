@@ -5,10 +5,10 @@
 //  Created by didi on 2020/2/7.
 //
 
-#import "WKWebView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/VCProfiler/WKWebView+Doraemon.h"
 #import <objc/runtime.h>
-#import "NSObject+Doraemon.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 
 @implementation WKWebView (Doraemon)
 

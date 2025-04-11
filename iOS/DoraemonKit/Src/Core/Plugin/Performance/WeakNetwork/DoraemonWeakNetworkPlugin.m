@@ -5,9 +5,9 @@
 //  Created by didi on 2019/11/21.
 //
 
-#import "DoraemonWeakNetworkPlugin.h"
-#import "DoraemonWeakNetworkViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/DoraemonWeakNetworkPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/DoraemonWeakNetworkViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonWeakNetworkPlugin
 

@@ -5,10 +5,10 @@
 //  Created by xgb on 2019/1/10.
 //
 
-#import "DoraemonMetricsViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
-#import "DoraemonViewMetricsConfig.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/DoraemonMetricsViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/Function/DoraemonViewMetricsConfig.h"
 
 @interface DoraemonMetricsViewController () <DoraemonSwitchViewDelegate>
 

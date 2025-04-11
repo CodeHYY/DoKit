@@ -5,10 +5,10 @@
 //  Created by didi on 2019/11/7.
 //
 
-#import "DoraemonMockUploadViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonMockUploadListView.h"
-#import "DoraemonMockDataPreviewViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/DoraemonMockUploadViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/ListView/DoraemonMockUploadListView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/Preview/DoraemonMockDataPreviewViewController.h"
 
 @interface DoraemonMockUploadViewController ()<DoraemonMockUploadListViewDelegate>
 

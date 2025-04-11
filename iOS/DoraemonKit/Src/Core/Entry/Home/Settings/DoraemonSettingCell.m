@@ -5,7 +5,7 @@
 //  Created by yinhaichao on 2021/2/26.
 //
 
-#import "DoraemonSettingCell.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/DoraemonSettingCell.h"
 
 @interface DoraemonSettingCell ()
 

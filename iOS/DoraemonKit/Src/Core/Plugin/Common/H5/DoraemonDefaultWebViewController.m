@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/12/27.
 //
 
-#import "DoraemonDefaultWebViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonDefaultWebViewController.h"
 #import <WebKit/WebKit.h>
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonDefaultWebViewController ()
 

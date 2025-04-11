@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonBaseBigTitleView.h"
+#import "DoraemonKit/Src/Core/Base/View/DoraemonBaseBigTitleView.h"
 
 @interface DoraemonBaseViewController : UIViewController
 

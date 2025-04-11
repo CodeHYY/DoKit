@@ -5,11 +5,11 @@
 //  Created by didi on 2019/11/15.
 //
 
-#import "DoraemonMockUploadCell.h"
-#import "DoraemonMockManager.h"
-#import "DoraemonNetworkUtil.h"
-#import "DoraemonManager.h"
-#import "DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/Cell/DoraemonMockUploadCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonNetworkUtil.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
 
 @interface DoraemonMockUploadCell()
 

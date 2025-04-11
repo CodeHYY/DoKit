@@ -6,7 +6,7 @@
 //
 
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @interface DoraemonMemoryViewController : DoraemonBaseViewController
 

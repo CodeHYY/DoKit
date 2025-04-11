@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/12/10.
 //
 
-#import "DoraemonStatisticsUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonStatisticsUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonStatisticsUtil
 

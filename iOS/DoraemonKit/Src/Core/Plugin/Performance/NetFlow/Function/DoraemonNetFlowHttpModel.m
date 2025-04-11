@@ -5,10 +5,10 @@
 //  Created by yixiang on 2018/4/11.
 //
 
-#import "DoraemonNetFlowHttpModel.h"
-#import "DoraemonNetFlowManager.h"
-#import "NSURLRequest+Doraemon.h"
-#import "DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/NSURLRequest+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
 
 @implementation DoraemonNetFlowHttpModel
 

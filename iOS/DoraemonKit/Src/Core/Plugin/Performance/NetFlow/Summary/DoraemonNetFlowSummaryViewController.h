@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/4/12.
 //
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @interface DoraemonNetFlowSummaryViewController : DoraemonBaseViewController
 

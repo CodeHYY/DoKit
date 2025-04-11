@@ -6,8 +6,8 @@
 //  Copyright © 2020 YunXIao. All rights reserved.
 //
 
-#import "DoraemonNavigationController.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonNavigationController.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 @interface DoraemonNavigationController ()
 

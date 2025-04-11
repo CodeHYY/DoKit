@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonMemoryOscillogramViewController.h"
-#import "DoraemonOscillogramView.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonMemoryUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonMemoryOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramWindow.h"
 
 @interface DoraemonMemoryOscillogramViewController ()
 

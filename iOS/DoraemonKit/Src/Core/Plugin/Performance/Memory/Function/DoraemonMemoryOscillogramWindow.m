@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonMemoryOscillogramWindow.h"
-#import "DoraemonMemoryOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramViewController.h"
 
 @implementation DoraemonMemoryOscillogramWindow
 

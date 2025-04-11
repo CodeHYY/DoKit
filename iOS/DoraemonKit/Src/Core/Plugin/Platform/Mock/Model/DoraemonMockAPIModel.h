@@ -6,8 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonMockBaseModel.h"
-#import "DoraemonMockScene.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockBaseModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockScene.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

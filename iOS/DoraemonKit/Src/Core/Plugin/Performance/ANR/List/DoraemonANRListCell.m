@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/15.
 //
 
-#import "DoraemonANRListCell.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/List/DoraemonANRListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonANRListCell()
 

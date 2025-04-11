@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonCPUPlugin.h"
-#import "DoraemonCPUViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/DoraemonCPUPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/DoraemonCPUViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonCPUPlugin
 

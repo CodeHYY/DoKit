@@ -5,8 +5,8 @@
 //  Created by didi on 2019/12/31.
 //
 
-#import "DoraemonHealthBgView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthBgView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthBgView()
 

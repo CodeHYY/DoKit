@@ -5,7 +5,7 @@
 //  Created by xgb on 2018/11/14.
 //
 
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @implementation Doraemoni18NUtil
 

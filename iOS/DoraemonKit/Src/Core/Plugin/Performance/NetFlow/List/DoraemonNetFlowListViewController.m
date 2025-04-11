@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/4/11.
 //
 
-#import "DoraemonNetFlowListViewController.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "DoraemonNetFlowListCell.h"
-#import "DoraemonNetFlowHttpModel.h"
-#import "DoraemonNetFlowDetailViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonNSLogSearchView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/List/DoraemonNetFlowListViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/List/DoraemonNetFlowListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogSearchView.h"
 
 @interface DoraemonNetFlowListViewController ()<UITableViewDelegate,UITableViewDataSource,DoraemonNSLogSearchViewDelegate>
 

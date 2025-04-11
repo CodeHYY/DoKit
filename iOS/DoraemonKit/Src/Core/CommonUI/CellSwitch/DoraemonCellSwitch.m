@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/6/13.
 //
 
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonCellSwitch()
 

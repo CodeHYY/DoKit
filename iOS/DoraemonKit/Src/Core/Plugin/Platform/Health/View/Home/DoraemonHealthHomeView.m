@@ -5,12 +5,12 @@
 //  Created by didi on 2020/1/2.
 //
 
-#import "DoraemonHealthHomeView.h"
-#import "DoraemonHealthBgView.h"
-#import "DoraemonHealthManager.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/DoraemonHealthHomeView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthBgView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 
 @interface DoraemonHealthHomeView ()<DoraemonHealthButtonDelegate>
 

@@ -5,10 +5,10 @@
 //  Created by love on 2019/5/22.
 //
 
-#import "DoraemonQRCodeViewController.h"
-#import "DoraemonDefaultWebViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonQRScanView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonQRCodeViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonDefaultWebViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/QRCode/DoraemonQRScanView.h"
 
 
 @interface DoraemonQRCodeViewController ()<DoraemonQRScanDelegate>

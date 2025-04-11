@@ -5,9 +5,9 @@
 //  Created by didi on 2020/4/13.
 //
 
-#import "DoraemonStartTimeProfilerViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/StartTime/TimeProfiler/DoraemonStartTimeProfilerViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 
 @interface DoraemonStartTimeProfilerViewController ()
 

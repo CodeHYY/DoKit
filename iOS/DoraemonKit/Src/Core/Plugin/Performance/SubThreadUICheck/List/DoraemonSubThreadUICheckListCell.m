@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "DoraemonSubThreadUICheckListCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/List/DoraemonSubThreadUICheckListCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonSubThreadUICheckListCell()
 

@@ -5,12 +5,12 @@
 //  Created by carefree on 2022/5/11.
 //
 
-#import "DoraemonJavaScriptDetailViewController.h"
-#import "DoraemonKit.h"
-#import "DoraemonDefine.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonJavaScriptManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/DoraemonJavaScriptDetailViewController.h"
+#import "DoraemonKit/Src/Core/include/DoraemonKit.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/Function/DoraemonJavaScriptManager.h"
 
 @interface DoraemonJavaScriptDetailViewController ()
 

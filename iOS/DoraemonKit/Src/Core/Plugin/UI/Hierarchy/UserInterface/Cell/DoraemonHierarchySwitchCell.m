@@ -5,8 +5,8 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchySwitchCell.h"
-#import "DoraemonHierarchyCellModel.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Cell/DoraemonHierarchySwitchCell.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCellModel.h"
 
 @interface DoraemonHierarchySwitchCell ()
 

@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/4/23.
 //
 
-#import "DoraemonNetFlowSummaryMethodDataView.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonBarChart.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/View/DoraemonNetFlowSummaryMethodDataView.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonBarChart.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonNetFlowSummaryMethodDataView()
 @property (nonatomic, strong) NSArray<DoraemonChartDataItem *> *chartItems;

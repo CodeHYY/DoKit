@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "DoraemonSubThreadUICheckListViewController.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonSubThreadUICheckListCell.h"
-#import "DoraemonSubThreadUICheckManager.h"
-#import "DoraemonSubThreadUICheckDetailViewController.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/List/DoraemonSubThreadUICheckListViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/List/DoraemonSubThreadUICheckListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/Function/DoraemonSubThreadUICheckManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/Detail/DoraemonSubThreadUICheckDetailViewController.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @interface DoraemonSubThreadUICheckListViewController ()<UITableViewDelegate,UITableViewDataSource>
 

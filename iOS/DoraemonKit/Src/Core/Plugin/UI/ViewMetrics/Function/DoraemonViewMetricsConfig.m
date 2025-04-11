@@ -5,8 +5,8 @@
 //  Created by xgb on 2018/12/11.
 //
 
-#import "DoraemonViewMetricsConfig.h"
-#import "UIView+DoraemonViewMetrics.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/Function/DoraemonViewMetricsConfig.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/Function/UIView+DoraemonViewMetrics.h"
 
 @implementation DoraemonViewMetricsConfig
 

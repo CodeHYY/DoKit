@@ -5,8 +5,8 @@
 //  Created by 张伟 on 2019/2/22.
 //
 
-#import "DoraemonStatusBarViewController.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonStatusBarViewController.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 @interface DoraemonStatusBarViewController ()
 

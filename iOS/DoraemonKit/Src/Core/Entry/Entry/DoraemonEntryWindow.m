@@ -6,14 +6,14 @@
 //  Copyright © 2017年 yixiang. All rights reserved.
 //
 
-#import "DoraemonEntryWindow.h"
-#import "DoraemonDefine.h"
-#import "UIView+Doraemon.h"
-#import "UIImage+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonStatusBarViewController.h"
-#import "DoraemonBuriedPointManager.h"
+#import "DoraemonKit/Src/Core/Entry/Entry/DoraemonEntryWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonStatusBarViewController.h"
+#import "DoraemonKit/Src/Core/Util/BuriedPoint/DoraemonBuriedPointManager.h"
 
 @interface DoraemonEntryWindow()
 

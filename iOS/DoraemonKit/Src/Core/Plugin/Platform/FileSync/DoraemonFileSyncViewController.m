@@ -5,9 +5,9 @@
 //  Created by didi on 2020/6/10.
 //
 
-#import "DoraemonFileSyncViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonFileSyncManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/DoraemonFileSyncViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/Function/DoraemonFileSyncManager.h"
 #import <GCDWebServer/GCDWebUploader.h>
 
 @interface DoraemonFileSyncViewController ()<GCDWebUploaderDelegate>

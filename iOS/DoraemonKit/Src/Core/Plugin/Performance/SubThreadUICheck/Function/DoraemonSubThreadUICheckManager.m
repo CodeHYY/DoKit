@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "DoraemonSubThreadUICheckManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/Function/DoraemonSubThreadUICheckManager.h"
 
 @implementation DoraemonSubThreadUICheckManager
 

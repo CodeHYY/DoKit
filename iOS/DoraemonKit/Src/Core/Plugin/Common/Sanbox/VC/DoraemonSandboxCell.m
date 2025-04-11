@@ -5,13 +5,13 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "DoraemonSandboxCell.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonUtil.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "UIImage+Doraemon.h"
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 @interface DoraemonSandBoxCell()
 

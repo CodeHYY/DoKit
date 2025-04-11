@@ -5,9 +5,9 @@
 //  Created by didi on 2019/11/15.
 //
 
-#import "DoraemonMockUploadListView.h"
-#import "DoraemonMockUploadCell.h"
-#import "DoraemonMockUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/ListView/DoraemonMockUploadListView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/Cell/DoraemonMockUploadCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockUtil.h"
 
 @interface DoraemonMockUploadListView()
 

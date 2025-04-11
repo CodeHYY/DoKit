@@ -5,8 +5,8 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "UIColor+DoraemonHierarchy.h"
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIColor+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 @implementation UIColor (DoraemonHierarchy)
 

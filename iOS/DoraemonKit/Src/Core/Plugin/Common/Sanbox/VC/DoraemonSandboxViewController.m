@@ -5,14 +5,14 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "DoraemonSandboxViewController.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonSanboxDetailViewController.h"
-#import "DoraemonNavBarItemModel.h"
-#import "DoraemonAppInfoUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonSandboxCell.h"
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSanboxDetailViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxCell.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 @interface DoraemonSandboxViewController () <UITableViewDelegate, UITableViewDataSource>
 

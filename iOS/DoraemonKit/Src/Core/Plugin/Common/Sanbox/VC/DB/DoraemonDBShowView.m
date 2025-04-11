@@ -5,8 +5,8 @@
 //  Created by yixiang on 2019/4/1.
 //
 
-#import "DoraemonDBShowView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBShowView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonDBShowView()
 

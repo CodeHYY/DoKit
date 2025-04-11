@@ -4,7 +4,7 @@
 //
 //  Created by didi on 2019/11/5.
 //
-#import "DoraemonMockBaseViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/DoraemonMockBaseViewController.h"
 
 @interface DoraemonMockAPIViewController : DoraemonMockBaseViewController
 

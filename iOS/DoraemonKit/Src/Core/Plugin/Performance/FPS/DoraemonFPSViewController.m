@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/1/3.
 //
 
-#import "DoraemonFPSViewController.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonFPSOscillogramWindow.h"
-#import "DoraemonFPSOscillogramViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/DoraemonFPSViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonFPSViewController ()<DoraemonSwitchViewDelegate, DoraemonOscillogramWindowDelegate>
 

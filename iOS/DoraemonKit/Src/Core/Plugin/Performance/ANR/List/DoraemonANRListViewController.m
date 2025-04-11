@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/6/15.
 //
 
-#import "DoraemonANRListViewController.h"
-#import "DoraemonANRManager.h"
-#import "DoraemonANRListCell.h"
-#import "DoraemonANRDetailViewController.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonANRTool.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/List/DoraemonANRListViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/List/DoraemonANRListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Detail/DoraemonANRDetailViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTool.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonANRListViewController ()<UITableViewDelegate,UITableViewDataSource>
 

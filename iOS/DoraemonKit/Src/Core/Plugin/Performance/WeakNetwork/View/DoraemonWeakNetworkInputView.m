@@ -5,8 +5,8 @@
 //  Created by didi on 2019/12/16.
 //
 
-#import "DoraemonWeakNetworkInputView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/DoraemonWeakNetworkInputView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonWeakNetworkInputView()<UITextFieldDelegate>
 

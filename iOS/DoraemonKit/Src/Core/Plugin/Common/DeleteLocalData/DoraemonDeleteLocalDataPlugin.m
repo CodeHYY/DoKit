@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/11/22.
 //
 
-#import "DoraemonDeleteLocalDataPlugin.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonDeleteLocalDataViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/DeleteLocalData/DoraemonDeleteLocalDataPlugin.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/DeleteLocalData/DoraemonDeleteLocalDataViewController.h"
 
 @implementation DoraemonDeleteLocalDataPlugin
 

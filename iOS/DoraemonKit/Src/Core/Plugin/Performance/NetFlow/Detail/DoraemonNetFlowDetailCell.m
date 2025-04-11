@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/4/19.
 //
 
-#import "DoraemonNetFlowDetailCell.h"
-#import "DoraemonDefine.h"
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 @interface DoraemonNetFlowDetailCell()
 

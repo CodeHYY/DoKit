@@ -5,10 +5,10 @@
 //  Created by carefree on 2022/5/11.
 //
 
-#import "DoraemonJavaScriptViewController.h"
-#import "DoraemonJavaScriptDetailViewController.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/DoraemonJavaScriptViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/DoraemonJavaScriptDetailViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonJavaScriptViewController ()<UITableViewDelegate, UITableViewDataSource>
 

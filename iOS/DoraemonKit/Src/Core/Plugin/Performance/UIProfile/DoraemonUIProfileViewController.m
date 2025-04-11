@@ -5,11 +5,11 @@
 //  Created by xgb on 2019/8/1.
 //
 
-#import "DoraemonUIProfileViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
-#import "DoraemonUIProfileManager.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/DoraemonUIProfileViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @interface DoraemonUIProfileViewController () <DoraemonSwitchViewDelegate>
 

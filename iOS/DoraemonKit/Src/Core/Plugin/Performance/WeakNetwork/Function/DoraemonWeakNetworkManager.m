@@ -5,13 +5,13 @@
 //  Created by didi on 2019/11/21.
 //
 
-#import "DoraemonWeakNetworkManager.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonWeakNetworkHandle.h"
-#import "DoraemonDefine.h"
-#import "DoraemonWeakNetworkWindow.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkHandle.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/Window/DoraemonWeakNetworkWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
 
 @interface DoraemonWeakNetworkManager()<DoraemonNetworkInterceptorDelegate,DoraemonNetworkWeakDelegate>
 

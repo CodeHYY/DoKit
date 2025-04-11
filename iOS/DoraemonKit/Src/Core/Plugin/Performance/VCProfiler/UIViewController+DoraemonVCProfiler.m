@@ -5,13 +5,13 @@
 //  Created by didi on 2020/1/5.
 //
 
-#import "UIViewController+DoraemonVCProfiler.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/VCProfiler/UIViewController+DoraemonVCProfiler.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import <objc/runtime.h>
-#import "DoraemonHealthManager.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 //#define Doraemon_VC_Profiler_LOG_ENABLE 
 

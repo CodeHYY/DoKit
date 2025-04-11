@@ -5,10 +5,10 @@
 //  Created by didi on 2020/3/5.
 //
 
-#import "DoraemonQRScanView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/QRCode/DoraemonQRScanView.h"
 #import <AVFoundation/AVFoundation.h>
 #import <ImageIO/ImageIO.h>
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 static CGFloat scanTime = 3.0;
 static CGFloat borderLineWidth = 0.5;

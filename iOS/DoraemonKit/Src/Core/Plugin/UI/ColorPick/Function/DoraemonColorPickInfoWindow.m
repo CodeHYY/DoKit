@@ -5,9 +5,9 @@
 //  Created by wenquan on 2018/12/4.
 //
 
-#import "DoraemonColorPickInfoWindow.h"
-#import "DoraemonColorPickInfoView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickInfoWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickInfoView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonColorPickInfoController: UIViewController
 

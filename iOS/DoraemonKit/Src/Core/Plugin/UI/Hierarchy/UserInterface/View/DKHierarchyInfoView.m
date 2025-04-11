@@ -1,9 +1,9 @@
-#import "DKHierarchyInfoView.h"
-#import "UIColor+DoraemonHierarchy.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "NSObject+DoraemonHierarchy.h"
-#import "DoraemonHierarchyFormatterTool.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKHierarchyInfoView.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIColor+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/NSObject+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyFormatterTool.h"
 
 @interface DKHierarchyInfoView ()
 

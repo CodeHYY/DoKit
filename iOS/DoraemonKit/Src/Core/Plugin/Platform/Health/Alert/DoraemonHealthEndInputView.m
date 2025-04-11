@@ -5,8 +5,8 @@
 //  Created by didi on 2020/1/8.
 //
 
-#import "DoraemonHealthEndInputView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Alert/DoraemonHealthEndInputView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonHealthEndInputView
 

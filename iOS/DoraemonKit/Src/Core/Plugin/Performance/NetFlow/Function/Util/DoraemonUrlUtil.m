@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/4/23.
 //
 
-#import "DoraemonUrlUtil.h"
-#import "DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
 
 @implementation DoraemonUrlUtil
 

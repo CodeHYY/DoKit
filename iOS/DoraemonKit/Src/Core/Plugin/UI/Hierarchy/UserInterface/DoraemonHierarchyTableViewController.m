@@ -5,13 +5,13 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyTableViewController.h"
-#import "DoraemonHierarchyCategoryModel.h"
-#import "DoraemonHierarchySelectorCell.h"
-#import "DoraemonHierarchySwitchCell.h"
-#import "DoraemonHierarchyHeaderView.h"
-#import "DoraemonHierarchyCellModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyTableViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCategoryModel.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Cell/DoraemonHierarchySelectorCell.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Cell/DoraemonHierarchySwitchCell.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DoraemonHierarchyHeaderView.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCellModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHierarchyTableViewController ()
 

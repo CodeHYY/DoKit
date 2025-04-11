@@ -5,7 +5,7 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 CGFloat doraemonColorComponentFrom(NSString *string, NSUInteger start, NSUInteger length) {
     NSString *substring = [string substringWithRange:NSMakeRange(start, length)];

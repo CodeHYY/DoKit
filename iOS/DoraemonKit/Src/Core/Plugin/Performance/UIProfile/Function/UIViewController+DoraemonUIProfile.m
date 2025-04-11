@@ -5,13 +5,13 @@
 //  Created by xgb on 2019/8/1.
 //
 
-#import "UIViewController+Doraemon.h"
-#import "DoraemonUIProfileManager.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileManager.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import <objc/runtime.h>
-#import "DoraemonUIProfileWindow.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 
 @interface UIViewController ()
 

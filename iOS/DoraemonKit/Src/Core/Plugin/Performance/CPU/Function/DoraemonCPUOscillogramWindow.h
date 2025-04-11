@@ -6,7 +6,7 @@
 //
 
 
-#import "DoraemonOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindow.h"
 
 @interface DoraemonCPUOscillogramWindow : DoraemonOscillogramWindow
 

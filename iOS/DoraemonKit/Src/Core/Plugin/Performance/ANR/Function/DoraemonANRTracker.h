@@ -8,7 +8,7 @@
 // 参考ONEANRTracker
 
 #import <Foundation/Foundation.h>
-#import "DoraemonPingThread.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonPingThread.h"
 
 //ANR监控状态枚举
 typedef NS_ENUM(NSUInteger, DoraemonANRTrackerStatus) {

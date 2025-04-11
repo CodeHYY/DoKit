@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/13.
 //
 
-#import "DoraemonANRPlugin.h"
-#import "DoraemonANRViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/DoraemonANRPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/DoraemonANRViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonANRPlugin
 

@@ -5,9 +5,9 @@
 //  Created by 0xd-cc on 2019/5/15.
 //
 
-#import "DoraemonLargeImagePlugin.h"
-#import "DoraemonLargeImageViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/DoraemonLargeImagePlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/DoraemonLargeImageViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonLargeImagePlugin
 - (void)pluginDidLoad {

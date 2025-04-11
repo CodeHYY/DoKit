@@ -5,9 +5,9 @@
 //  Created by didi on 2019/12/30.
 //
 
-#import "DoraemonHealthBtnView.h"
-#import "DoraemonHealthManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/Detail/DoraemonHealthBtnView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthBtnView()
 

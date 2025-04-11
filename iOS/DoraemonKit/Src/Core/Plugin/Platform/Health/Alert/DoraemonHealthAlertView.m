@@ -5,10 +5,10 @@
 //  Created by didi on 2020/1/8.
 //
 
-#import "DoraemonHealthAlertView.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonHealthEndInputView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Alert/DoraemonHealthAlertView.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Alert/DoraemonHealthEndInputView.h"
 
 @interface DoraemonHealthAlertView()<UITextFieldDelegate>
 

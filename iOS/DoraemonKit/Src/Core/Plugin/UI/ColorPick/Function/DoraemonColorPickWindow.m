@@ -5,16 +5,16 @@
 //  Created by yixiang on 2018/3/5.
 //
 
-#import "DoraemonColorPickWindow.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "DoraemonColorPickView.h"
-#import "UIImage+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "DoraemonColorPickInfoWindow.h"
-#import "DoraemonColorPickMagnifyLayer.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickView.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickInfoWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickMagnifyLayer.h"
 
 static CGFloat const kColorPickWindowSize = 150;
 

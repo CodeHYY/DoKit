@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonCPUOscillogramWindow.h"
-#import "DoraemonCPUOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramViewController.h"
 
 @implementation DoraemonCPUOscillogramWindow
 

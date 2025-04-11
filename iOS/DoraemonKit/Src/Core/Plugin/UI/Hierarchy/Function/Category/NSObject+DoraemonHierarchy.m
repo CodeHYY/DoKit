@@ -5,16 +5,16 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "NSObject+DoraemonHierarchy.h"
-#import "UIViewController+DoraemonHierarchy.h"
-#import "DoraemonHierarchyFormatterTool.h"
-#import "DoraemonHierarchyCategoryModel.h"
-#import "DoraemonHierarchyCellModel.h"
-#import "UIColor+DoraemonHierarchy.h"
-#import "DoraemonEnumDescription.h"
-#import "DoraemonHierarchyHelper.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/NSObject+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIViewController+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyFormatterTool.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCategoryModel.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCellModel.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIColor+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonEnumDescription.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyHelper.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 NSNotificationName const DoraemonHierarchyChangeNotificationName = @"DoraemonHierarchyChangeNotificationName";
 

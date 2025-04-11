@@ -5,9 +5,9 @@
 //  Created by carefree on 2022/5/11.
 //
 
-#import "DoraemonJavaScriptPlugin.h"
-#import "DoraemonJavaScriptManager.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/DoraemonJavaScriptPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/JavaScript/Function/DoraemonJavaScriptManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonJavaScriptPlugin
 

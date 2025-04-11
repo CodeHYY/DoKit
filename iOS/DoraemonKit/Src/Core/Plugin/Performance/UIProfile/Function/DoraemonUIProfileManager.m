@@ -5,10 +5,10 @@
 //  Created by xgb on 2019/8/1.
 //
 
-#import "DoraemonUIProfileManager.h"
-#import "UIViewController+DoraemonUIProfile.h"
-#import "DoraemonUIProfileWindow.h"
-#import "UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/UIViewController+DoraemonUIProfile.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/Function/DoraemonUIProfileWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
 
 @interface DoraemonUIProfileManager ()
 

@@ -5,15 +5,15 @@
 //  Created by yixiang on 2018/6/13.
 //
 
-#import "DoraemonANRViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonANRManager.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonANRListViewController.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonANRTool.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/DoraemonANRViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRManager.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/List/DoraemonANRListViewController.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTool.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonANRViewController () <DoraemonSwitchViewDelegate, DoraemonCellButtonDelegate>
 

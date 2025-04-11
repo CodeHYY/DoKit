@@ -5,15 +5,15 @@
 //  Created by yixiang on 2018/5/4.
 //
 
-#import "DoraemonH5ViewController.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonDefine.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonDefaultWebViewController.h"
-#import "DoraemonManager.h"
-#import "DoraemonQRCodeViewController.h"
-#import "DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonH5ViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonDefaultWebViewController.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonQRCodeViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 
 @interface DoraemonH5ViewController () <UITableViewDelegate, UITableViewDataSource>
 

@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/4/23.
 //
 
-#import "DoraemonNetFlowSummaryTotalDataView.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/View/DoraemonNetFlowSummaryTotalDataView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonNetFlowSummaryTotalDataItemView : UIView
 

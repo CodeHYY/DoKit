@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
 
 @interface DoraemonNetFlowListCell : UITableViewCell
 

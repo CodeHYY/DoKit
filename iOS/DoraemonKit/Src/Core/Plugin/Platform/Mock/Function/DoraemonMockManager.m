@@ -5,15 +5,15 @@
 //  Created by didi on 2019/10/31.
 //
 
-#import "DoraemonMockManager.h"
-#import "DoraemonNetworkUtil.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonUrlUtil.h"
-#import "DoraemonManager.h"
-#import "DoraemonMockUtil.h"
-#import "DoraemonDefine.h"
-#import "UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonNetworkUtil.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
 
 @interface DoraemonMockManager()<DoraemonNetworkInterceptorDelegate>
 

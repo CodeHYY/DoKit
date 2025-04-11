@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/4/13.
 //
 
-#import "DoraemonNetFlowListCell.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonUtil.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/List/DoraemonNetFlowListCell.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 static CGFloat const kFontSize = 10;
 

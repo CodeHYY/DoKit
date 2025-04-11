@@ -5,14 +5,14 @@
 //  Created by wenquan on 2018/11/22.
 //
 
-#import "DoraemonCrashListViewController.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonCrashListCell.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonSanboxDetailViewController.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonCrashTool.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/List/DoraemonCrashListViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/List/DoraemonCrashListCell.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSanboxDetailViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashTool.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 static NSString *const kDoraemonCrashListCellIdentifier = @"kDoraemonCrashListCellIdentifier";
 

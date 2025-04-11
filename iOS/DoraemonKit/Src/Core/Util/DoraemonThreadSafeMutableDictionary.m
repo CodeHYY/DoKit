@@ -5,7 +5,7 @@
 //  Created by didi on 2020/1/6.
 //
 
-#import "DoraemonThreadSafeMutableDictionary.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonThreadSafeMutableDictionary.h"
 #import <pthread/pthread.h>
 
 @interface DoraemonThreadSafeMutableDictionary(){

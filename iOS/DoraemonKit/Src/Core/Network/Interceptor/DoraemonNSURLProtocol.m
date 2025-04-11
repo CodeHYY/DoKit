@@ -5,17 +5,17 @@
 //  Created by yixiang on 2018/4/11.
 //
 
-#import "DoraemonNSURLProtocol.h"
-#import "DoraemonNetFlowHttpModel.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonURLSessionDemux.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonManager.h"
-#import "DoraemonMockManager.h"
-#import "DoraemonDefine.h"
-#import "DoraemonUrlUtil.h"
-#import "UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNSURLProtocol.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonURLSessionDemux.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
 
 static NSString * const kDoraemonProtocolKey = @"doraemon_protocol_key";
 

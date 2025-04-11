@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/16.
 //
 
-#import "DoraemonANRDetailViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Detail/DoraemonANRDetailViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 @interface DoraemonANRDetailViewController ()
 

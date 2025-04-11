@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
 
 @interface DoraemonOscillogramViewController : UIViewController
 

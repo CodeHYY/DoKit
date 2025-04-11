@@ -5,9 +5,9 @@
 //  Created by xgb on 2019/8/1.
 //
 
-#import "DoraemonUIProfilePlugin.h"
-#import "DoraemonUIProfileViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/DoraemonUIProfilePlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/UIProfile/DoraemonUIProfileViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonUIProfilePlugin
 

@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/1/15.
 //
 
-#import "DoraemonCPUUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUUtil.h"
 #import <mach/mach.h>
 #import <UIKit/UIKit.h>
 //#import <sys/sysctl.h>

@@ -6,12 +6,12 @@
 //  Copyright © 2017年 yixiang. All rights reserved.
 //
 
-#import "DoraemonBaseViewController.h"
-#import "DoraemonNavBarItemModel.h"
-#import "UIImage+Doraemon.h"
-#import "DoraemonHomeWindow.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonBaseViewController ()<DoraemonBaseBigTitleViewDelegate>
  

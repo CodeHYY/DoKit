@@ -5,10 +5,10 @@
 //  Created by yixiang on 2018/3/28.
 //
 
-#import "DoraemonViewCheckView.h"
-#import "DoraemonDefine.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonVisualInfoWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewCheck/Function/DoraemonViewCheckView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/Visual/DoraemonVisualInfoWindow.h"
 #import <objc/runtime.h>
 
 

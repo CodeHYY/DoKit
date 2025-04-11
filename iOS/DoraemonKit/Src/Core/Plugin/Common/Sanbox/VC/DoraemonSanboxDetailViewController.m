@@ -7,14 +7,14 @@
 
 #import <AVKit/AVKit.h>
 #import <AVFoundation/AVFoundation.h>
-#import "DoraemonSanboxDetailViewController.h"
-#import "DoraemonToastUtil.h"
-#import "UIView+Doraemon.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSanboxDetailViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 #import <QuickLook/QuickLook.h>
-#import "DoraemonDBManager.h"
-#import "DoraemonDBTableViewController.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/Util/DoraemonDBManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBTableViewController.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 @interface DoraemonSanboxDetailViewController ()<QLPreviewControllerDelegate,QLPreviewControllerDataSource,UITableViewDelegate,UITableViewDataSource>
 

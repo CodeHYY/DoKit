@@ -5,13 +5,13 @@
 //  Created by didi on 2019/12/30.
 //
 
-#import "DoraemonHealthViewController.h"
-#import "DoraemonHealthHomeView.h"
-#import "DoraemonHealthFooterView.h"
-#import "DoraemonHealthManager.h"
-#import "DoraemonHealthAlertView.h"
-#import "DoraemonHealthInstructionsView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/DoraemonHealthViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Home/DoraemonHealthHomeView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/DoraemonHealthFooterView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Alert/DoraemonHealthAlertView.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Instructions/DoraemonHealthInstructionsView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthViewController()<UIScrollViewDelegate,DoraemonHealthFooterButtonDelegate>
 

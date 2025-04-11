@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/4/12.
 //
 
-#import "DoraemonNetFlowSummaryViewController.h"
-#import "DoraemonNetFlowSummaryTotalDataView.h"
-#import "DoraemonNetFlowSummaryMethodDataView.h"
-#import "DoraemonNetFlowSummaryTypeDataView.h"
-#import "UIView+Doraemon.h"
-#import "UIColor+Doraemon.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/DoraemonNetFlowSummaryViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/View/DoraemonNetFlowSummaryTotalDataView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/View/DoraemonNetFlowSummaryMethodDataView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/View/DoraemonNetFlowSummaryTypeDataView.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @interface DoraemonNetFlowSummaryViewController ()
 

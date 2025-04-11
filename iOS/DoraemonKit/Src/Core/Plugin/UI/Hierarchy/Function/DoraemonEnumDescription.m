@@ -5,7 +5,7 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonEnumDescription.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonEnumDescription.h"
 
 @implementation DoraemonEnumDescription
 

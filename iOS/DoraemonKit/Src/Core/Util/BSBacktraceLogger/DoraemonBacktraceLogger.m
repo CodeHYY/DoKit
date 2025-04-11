@@ -5,7 +5,7 @@
 //  Created by didi on 2020/3/18.
 //
 
-#import "DoraemonBacktraceLogger.h"
+#import "DoraemonKit/Src/Core/Util/BSBacktraceLogger/DoraemonBacktraceLogger.h"
 #import <mach/mach.h>
 #include <dlfcn.h>
 #include <pthread.h>

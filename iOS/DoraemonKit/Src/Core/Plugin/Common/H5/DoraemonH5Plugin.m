@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/5/4.
 //
 
-#import "DoraemonH5Plugin.h"
-#import "DoraemonH5ViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonH5Plugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonH5ViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonH5Plugin
 

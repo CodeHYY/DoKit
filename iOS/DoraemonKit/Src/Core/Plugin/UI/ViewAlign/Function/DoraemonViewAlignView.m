@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/6/16.
 //
 
-#import "DoraemonViewAlignView.h"
-#import "DoraemonDefine.h"
-#import "DoraemonVisualInfoWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewAlign/Function/DoraemonViewAlignView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Visual/DoraemonVisualInfoWindow.h"
 
 #define ALIGN_COLOR @"#FF0000"
 

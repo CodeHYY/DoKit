@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/12/2.
 //
 
-#import "DoraemonBaseBigTitleView.h"
-#import "DoraemonDefine.h"
-#import "UIView+Doraemon.h"
-#import "UIColor+Doraemon.h"
-#import "UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Base/View/DoraemonBaseBigTitleView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
 
 @interface DoraemonBaseBigTitleView()
 

@@ -5,9 +5,9 @@
 //  Created by didi on 2019/11/17.
 //
 
-#import "DoraemonMockDataPreviewViewController.h"
-#import "DoraemonMockManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/VC/Preview/DoraemonMockDataPreviewViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonMockDataPreviewViewController ()
 

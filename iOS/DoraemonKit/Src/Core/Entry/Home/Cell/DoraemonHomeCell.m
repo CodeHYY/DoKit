@@ -5,8 +5,8 @@
 //  Created by dengyouhua on 2019/9/4.
 //
 
-#import "DoraemonHomeCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHomeCell()
 

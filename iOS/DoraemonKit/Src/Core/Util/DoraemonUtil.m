@@ -6,12 +6,12 @@
 //  Copyright © 2017年 yixiang. All rights reserved.
 //
 
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 #import <WebKit/WebKit.h>
-#import "UIViewController+Doraemon.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonAppInfoUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonUtil
 

@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @interface DoraemonSubThreadUICheckDetailViewController : DoraemonBaseViewController
 

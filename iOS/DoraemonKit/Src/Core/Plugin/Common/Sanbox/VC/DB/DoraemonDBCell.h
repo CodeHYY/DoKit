@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonDBRowView.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBRowView.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

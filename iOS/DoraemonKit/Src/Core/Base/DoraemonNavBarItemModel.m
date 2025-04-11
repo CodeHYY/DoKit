@@ -5,7 +5,7 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "DoraemonNavBarItemModel.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
 
 @implementation DoraemonNavBarItemModel
 

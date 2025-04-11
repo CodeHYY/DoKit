@@ -1,0 +1,4 @@
+module Core {
+    umbrella "/Users/heyangyu/Desktop/ThirdCode/Dokit/iOS/DoraemonKit/Src/Core/include"
+    export *
+}

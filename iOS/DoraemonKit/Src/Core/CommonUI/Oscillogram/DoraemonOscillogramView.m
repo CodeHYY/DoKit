@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/1/3.
 //
 
-#import "DoraemonOscillogramView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonPoint
 

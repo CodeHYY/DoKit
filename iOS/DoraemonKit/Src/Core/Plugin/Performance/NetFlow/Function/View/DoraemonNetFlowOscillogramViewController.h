@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/5/2.
 //
 
-#import "DoraemonOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramViewController.h"
 
 @interface DoraemonNetFlowOscillogramViewController : DoraemonOscillogramViewController
 

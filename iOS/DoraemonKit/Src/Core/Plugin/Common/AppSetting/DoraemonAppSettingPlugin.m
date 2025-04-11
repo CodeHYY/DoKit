@@ -5,9 +5,9 @@
 //  Created by didi on 2020/2/28.
 //
 
-#import "DoraemonAppSettingPlugin.h"
-#import "DoraemonUtil.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppSetting/DoraemonAppSettingPlugin.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonAppSettingPlugin
 

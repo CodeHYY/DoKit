@@ -5,10 +5,10 @@
 //  Created by yixiang on 2018/6/14.
 //
 
-#import "DoraemonPingThread.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonPingThread.h"
 #import <UIKit/UIKit.h>
-#import "DoraemonUtil.h"
-#import "DoraemonBacktraceLogger.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Util/BSBacktraceLogger/DoraemonBacktraceLogger.h"
 
 @interface DoraemonPingThread()
 

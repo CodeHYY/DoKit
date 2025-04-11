@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/9/12.
 //
 
-#import "DoraemonSubThreadUICheckViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonSubThreadUICheckListViewController.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/DoraemonSubThreadUICheckViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/List/DoraemonSubThreadUICheckListViewController.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonSubThreadUICheckViewController ()<DoraemonSwitchViewDelegate,DoraemonCellButtonDelegate>
 

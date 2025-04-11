@@ -5,8 +5,8 @@
 //  Created by didi on 2019/11/15.
 //
 
-#import "DoraemonMockBaseModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockBaseModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation DoraemonMockBaseModel
 

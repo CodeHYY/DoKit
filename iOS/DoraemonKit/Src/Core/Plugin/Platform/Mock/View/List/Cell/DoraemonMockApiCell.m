@@ -5,10 +5,10 @@
 //  Created by didi on 2019/11/15.
 //
 
-#import "DoraemonMockApiCell.h"
-#import "DoraemonMockSceneButton.h"
-#import "DoraemonMockAPIModel.h"
-#import "DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/Cell/DoraemonMockApiCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/DoraemonMockSceneButton.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Model/DoraemonMockAPIModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
 
 @interface DoraemonMockApiCell()<DoraemonMockSceneButtonDelegate>
 

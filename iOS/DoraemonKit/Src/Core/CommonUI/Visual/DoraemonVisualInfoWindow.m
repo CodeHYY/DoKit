@@ -5,8 +5,8 @@
 //  Created by wenquan on 2018/12/5.
 //
 
-#import "DoraemonVisualInfoWindow.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Visual/DoraemonVisualInfoWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonVisualInfoViewController : UIViewController
 @property (nonatomic, strong) UIButton *closeBtn;

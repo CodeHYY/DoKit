@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/12/9.
 //
 
-#import "DoraemonNetFlowDetailSegment.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Detail/DoraemonNetFlowDetailSegment.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonNetFlowDetailSegment()
 

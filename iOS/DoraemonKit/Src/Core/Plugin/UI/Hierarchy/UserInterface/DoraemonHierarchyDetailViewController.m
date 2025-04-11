@@ -5,15 +5,15 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyDetailViewController.h"
-#import "UIViewController+DoraemonHierarchy.h"
-#import "DoraemonHierarchyDetailTitleCell.h"
-#import "DoraemonHierarchyFormatterTool.h"
-#import "DoraemonHierarchyCategoryModel.h"
-#import "NSObject+DoraemonHierarchy.h"
-#import "DoraemonHierarchyCellModel.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyDetailViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIViewController+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Cell/DoraemonHierarchyDetailTitleCell.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/DoraemonHierarchyFormatterTool.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCategoryModel.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/NSObject+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/Model/DoraemonHierarchyCellModel.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHierarchyDetailViewController ()
 

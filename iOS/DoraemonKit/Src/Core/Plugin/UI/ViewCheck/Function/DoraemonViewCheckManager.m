@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/3/28.
 //
 
-#import "DoraemonViewCheckManager.h"
-#import "DoraemonViewCheckView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewCheck/Function/DoraemonViewCheckManager.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewCheck/Function/DoraemonViewCheckView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 
 @interface DoraemonViewCheckManager()

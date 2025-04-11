@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/4/15.
 //
 
-#import "DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
 #import <sys/utsname.h>
 #import <CoreLocation/CLLocationManager.h>
 #import <AVFoundation/AVFoundation.h>
@@ -17,7 +17,7 @@
 #include <ifaddrs.h>
 #include <arpa/inet.h>
 #include <net/if.h>
-#import "DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 
 #define IOS_CELLULAR    @"pdp_ip0"
 #define IOS_WIFI        @"en0"

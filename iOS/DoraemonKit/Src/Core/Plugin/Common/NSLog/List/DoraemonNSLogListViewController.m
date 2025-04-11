@@ -5,14 +5,14 @@
 //  Created by yixiang on 2018/11/26.
 //
 
-#import "DoraemonNSLogListViewController.h"
-#import "DoraemonNSLogManager.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonNSLogListCell.h"
-#import "DoraemonNSLogModel.h"
-#import "DoraemonNSLogSearchView.h"
-#import "DoraemonDefine.h"
-#import "DoraemonNavBarItemModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogListViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogManager.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogSearchView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
 
 @interface DoraemonNSLogListViewController ()<UITableViewDelegate,UITableViewDataSource,DoraemonNSLogSearchViewDelegate>
 

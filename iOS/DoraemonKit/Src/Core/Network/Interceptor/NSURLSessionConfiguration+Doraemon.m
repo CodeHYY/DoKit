@@ -5,11 +5,11 @@
 //  Created by yixiang on 2018/7/2.
 //
 
-#import "NSURLSessionConfiguration+Doraemon.h"
-#import "DoraemonNSURLProtocol.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/NSURLSessionConfiguration+Doraemon.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNSURLProtocol.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 
 
 @implementation NSURLSessionConfiguration (Doraemon)

@@ -5,10 +5,10 @@
 //  Created by didi on 2019/11/18.
 //
 
-#import "DoraemonMockUtil.h"
-#import "DoraemonUtil.h"
-#import "DoraemonMockManager.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 #define DoraemonMockFileName @"mock"
 #define DoraemonUploadFileName @"upload"

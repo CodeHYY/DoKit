@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/1/25.
 //
 
-#import "DoraemonMemoryPlugin.h"
-#import "DoraemonMemoryViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/DoraemonMemoryPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/DoraemonMemoryViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonMemoryPlugin
 

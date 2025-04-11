@@ -5,9 +5,9 @@
 //  Created by yixiang on 2018/1/3.
 //
 
-#import "DoraemonFPSPlugin.h"
-#import "DoraemonFPSViewController.h"
-#import "DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/DoraemonFPSPlugin.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/DoraemonFPSViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 
 @implementation DoraemonFPSPlugin
 

@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonNetFlowHttpModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowHttpModel.h"
 
 @interface DoraemonNetFlowDataSource : NSObject
 

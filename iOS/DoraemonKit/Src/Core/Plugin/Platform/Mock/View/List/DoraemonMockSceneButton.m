@@ -5,8 +5,8 @@
 //  Created by didi on 2019/11/4.
 //
 
-#import "DoraemonMockSceneButton.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/DoraemonMockSceneButton.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonMockSceneButton()
 

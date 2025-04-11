@@ -5,11 +5,11 @@
 //  Created by wenquan on 2018/11/22.
 //
 
-#import "DoraemonCrashSignalExceptionHandler.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashSignalExceptionHandler.h"
 
 #import <execinfo.h>
 
-#import "DoraemonCrashTool.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashTool.h"
 
 typedef void (*SignalHandler)(int signal, siginfo_t *info, void *context);
 

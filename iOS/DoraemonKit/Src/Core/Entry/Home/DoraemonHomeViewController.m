@@ -5,21 +5,21 @@
 //  Created by dengyouhua on 2019/9/4.
 //
 
-#import "DoraemonHomeViewController.h"
-#import "UIView+Doraemon.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonManager.h"
-#import "DoraemonPluginProtocol.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonDefine.h"
-#import "DoraemonHomeCell.h"
-#import "DoraemonHomeHeadCell.h"
-#import "DoraemonHomeFootCell.h"
-#import "DoraemonHomeCloseCell.h"
-#import "UIViewController+Doraemon.h"
-#import "DoraemonBuriedPointManager.h"
-#import "DoraemonSettingViewController.h"
-#import "DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Protocol/DoraemonPluginProtocol.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeCell.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeHeadCell.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeFootCell.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeCloseCell.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Util/BuriedPoint/DoraemonBuriedPointManager.h"
+#import "DoraemonKit/Src/Core/Entry/Home/Settings/DoraemonSettingViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 
 static NSString *DoraemonHomeCellID = @"DoraemonHomeCellID";
 static NSString *DoraemonHomeHeadCellID = @"DoraemonHomeHeadCellID";

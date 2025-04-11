@@ -6,7 +6,7 @@
 //  Copyright © 2019 000. All rights reserved.
 //
 
-#import "DoraemonBarChart.h"
+#import "DoraemonKit/Src/Core/CommonUI/Charts/DoraemonBarChart.h"
 
 @implementation DoraemonBarChart
 

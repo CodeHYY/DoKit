@@ -5,11 +5,11 @@
 //  Created by xgb on 2018/12/11.
 //
 
-#import "UIView+DoraemonViewMetrics.h"
-#import "DoraemonViewMetricsConfig.h"
-#import "NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/Function/UIView+DoraemonViewMetrics.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ViewMetrics/Function/DoraemonViewMetricsConfig.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
 #import <objc/runtime.h>
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 
 @interface UIView ()

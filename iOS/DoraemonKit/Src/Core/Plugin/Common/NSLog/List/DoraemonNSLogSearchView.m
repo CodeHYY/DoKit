@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/12/3.
 //
 
-#import "DoraemonNSLogSearchView.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogSearchView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonNSLogSearchView()
 

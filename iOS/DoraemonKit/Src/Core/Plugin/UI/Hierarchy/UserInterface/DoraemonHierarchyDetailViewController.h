@@ -5,7 +5,7 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "DoraemonHierarchyTableViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/DoraemonHierarchyTableViewController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

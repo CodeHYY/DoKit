@@ -1,4 +1,4 @@
-#import <DoraemonKit/DKMoveView.h>
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/UserInterface/View/DKMoveView.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

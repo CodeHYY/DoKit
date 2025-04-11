@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonNSLogModel.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogModel.h"
 
 
 @interface DoraemonNSLogManager : NSObject

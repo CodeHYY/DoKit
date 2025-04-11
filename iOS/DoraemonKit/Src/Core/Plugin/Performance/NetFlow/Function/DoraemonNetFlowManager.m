@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/4/11.
 //
 
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonNSURLProtocol.h"
-#import "DoraemonNetFlowDataSource.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "UIViewController+Doraemon.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNSURLProtocol.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowDataSource.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 #import <objc/runtime.h>
 
 @interface NSInputStream (DoraemonHttpBodyCallBack)

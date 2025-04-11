@@ -5,8 +5,8 @@
 //  Created by didi on 2020/1/2.
 //
 
-#import "DoraemonHealthInstructionsCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Instructions/DoraemonHealthInstructionsCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonHealthInstructionsCell()
 

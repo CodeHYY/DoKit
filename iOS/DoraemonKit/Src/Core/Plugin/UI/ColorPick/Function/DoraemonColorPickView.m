@@ -5,10 +5,10 @@
 //  Created by yixiang on 2018/3/6.
 //
 
-#import "DoraemonColorPickView.h"
-#import "UIView+Doraemon.h"
-#import "UIImage+Doraemon.h"
-#import "UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/ColorPick/Function/DoraemonColorPickView.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
 
 @interface DoraemonColorPickView()
 

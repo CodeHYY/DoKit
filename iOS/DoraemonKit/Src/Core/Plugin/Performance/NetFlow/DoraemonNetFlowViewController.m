@@ -5,20 +5,20 @@
 //  Created by yixiang on 2018/4/9.
 //
 
-#import "DoraemonNetFlowViewController.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonNetFlowManager.h"
-#import "DoraemonDefine.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonNetFlowListViewController.h"
-#import "DoraemonHomeWindow.h"
-#import "DoraemonNetFlowSummaryViewController.h"
-#import "UIImage+Doraemon.h"
-#import "UIColor+Doraemon.h"
-#import "DoraemonNetFlowOscillogramWindow.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/DoraemonNetFlowViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/DoraemonNetFlowManager.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/List/DoraemonNetFlowListViewController.h"
+#import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Summary/DoraemonNetFlowSummaryViewController.h"
+#import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 
 @interface DoraemonNetFlowViewController ()<DoraemonSwitchViewDelegate, DoraemonOscillogramWindowDelegate>

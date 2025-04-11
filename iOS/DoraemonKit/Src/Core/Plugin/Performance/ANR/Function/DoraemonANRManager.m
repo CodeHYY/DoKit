@@ -5,14 +5,14 @@
 //  Created by yixiang on 2018/6/14.
 //
 
-#import "DoraemonANRManager.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonANRTracker.h"
-#import "DoraemonMemoryUtil.h"
-#import "DoraemonAppInfoUtil.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonANRTool.h"
-#import "DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRManager.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTracker.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRTool.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 
 //默认超时间隔
 static CGFloat const kDoraemonBlockMonitorTimeInterval = 0.2f;

@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/11/25.
 //
 
-#import "DoraemonNSLogViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonCellButton.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonNSLogListViewController.h"
-#import "DoraemonDefine.h"
-#import "DoraemonNSLogManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/DoraemonNSLogViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/List/DoraemonNSLogListViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogManager.h"
 
 @interface DoraemonNSLogViewController ()<DoraemonSwitchViewDelegate,DoraemonCellButtonDelegate>
 

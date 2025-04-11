@@ -5,7 +5,7 @@
 //  Created by wenquan on 2018/12/6.
 //
 
-#import "DoraemonVisualMagnifierWindow.h"
+#import "DoraemonKit/Src/Core/CommonUI/Visual/DoraemonVisualMagnifierWindow.h"
 
 @implementation DoraemonVisualMagnifierWindow
 

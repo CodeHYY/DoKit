@@ -5,16 +5,16 @@
 //  Created by yixiang on 2018/6/19.
 //
 
-#import "DoraemonCrashViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonCellButton.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonCrashListViewController.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonCrashTool.h"
-#import "DoraemonToastUtil.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/DoraemonCrashViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellBtn/DoraemonCellButton.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/List/DoraemonCrashListViewController.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/Function/DoraemonCrashTool.h"
+#import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonCrashViewController () <DoraemonSwitchViewDelegate, DoraemonCellButtonDelegate>
 

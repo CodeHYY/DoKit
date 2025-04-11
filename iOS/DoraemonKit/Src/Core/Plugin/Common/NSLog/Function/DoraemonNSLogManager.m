@@ -5,8 +5,8 @@
 //  Created by yixiang on 2018/11/26.
 //
 
-#import "DoraemonNSLogManager.h"
-#import "doraemon_fishhook.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/NSLog/Function/DoraemonNSLogManager.h"
+#import "DoraemonKit/Src/Core/Util/fishhook/doraemon_fishhook.h"
 
 //函数指针，用来保存原始的函数的地址
 static void(*old_nslog)(NSString *format, ...);

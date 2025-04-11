@@ -5,7 +5,7 @@
 //  Created by didi on 2020/1/6.
 //
 
-#import "DoraemonThreadSafeMutableArray.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonThreadSafeMutableArray.h"
 #import <pthread/pthread.h>
 
 @interface DoraemonThreadSafeMutableArray(){

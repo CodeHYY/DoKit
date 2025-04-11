@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonCPUViewController.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonCPUOscillogramWindow.h"
-#import "Doraemoni18NUtil.h"
-#import "DoraemonCPUOscillogramViewController.h"
-#import "DoraemonCellSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/DoraemonCPUViewController.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/CellSwitch/DoraemonCellSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonCPUViewController ()<DoraemonSwitchViewDelegate, DoraemonOscillogramWindowDelegate>
 

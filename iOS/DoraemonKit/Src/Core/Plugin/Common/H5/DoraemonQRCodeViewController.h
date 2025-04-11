@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonBaseViewController.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
 
 @interface DoraemonQRCodeViewController : DoraemonBaseViewController
 @property (nonatomic, copy) void(^QRCodeBlock)(NSString *QRCodeResult);

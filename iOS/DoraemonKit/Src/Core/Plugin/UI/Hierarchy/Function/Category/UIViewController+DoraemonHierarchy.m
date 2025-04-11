@@ -5,8 +5,8 @@
 //  Created by lijiahuan on 2019/11/2.
 //
 
-#import "UIViewController+DoraemonHierarchy.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/UI/Hierarchy/Function/Category/UIViewController+DoraemonHierarchy.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @implementation UIViewController (DoraemonHierarchy)
 

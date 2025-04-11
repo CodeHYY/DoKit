@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonFPSOscillogramViewController.h"
-#import "DoraemonOscillogramView.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonFPSOscillogramWindow.h"
-#import "DoraemonFPSUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSUtil.h"
 
 
 @interface DoraemonFPSOscillogramViewController ()

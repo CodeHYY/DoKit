@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/4/11.
 //
 
-#import "NSURLRequest+Doraemon.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/NSURLRequest+Doraemon.h"
 #import <objc/runtime.h>
 
 @implementation NSURLRequest (Doraemon)

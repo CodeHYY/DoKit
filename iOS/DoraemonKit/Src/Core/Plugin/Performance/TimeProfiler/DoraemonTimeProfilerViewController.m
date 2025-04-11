@@ -5,8 +5,8 @@
 //  Created by didi on 2019/10/15.
 //
 
-#import "DoraemonTimeProfilerViewController.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/TimeProfiler/DoraemonTimeProfilerViewController.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonTimeProfilerViewController()
 

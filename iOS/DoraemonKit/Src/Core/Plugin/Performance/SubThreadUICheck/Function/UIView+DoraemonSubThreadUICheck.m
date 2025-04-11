@@ -5,13 +5,13 @@
 //  Created by yixiang on 2018/9/13.
 //
 
-#import "UIView+Doraemon.h"
-#import "NSObject+Doraemon.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonSubThreadUICheckManager.h"
-#import "DoraemonUtil.h"
-#import "DoraemonHealthManager.h"
-#import "DoraemonBacktraceLogger.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/SubThreadUICheck/Function/DoraemonSubThreadUICheckManager.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
+#import "DoraemonKit/Src/Core/Util/BSBacktraceLogger/DoraemonBacktraceLogger.h"
 
 @implementation UIView (DoraemonSubThreadUICheck)
 

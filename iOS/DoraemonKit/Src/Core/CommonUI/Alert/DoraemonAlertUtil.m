@@ -5,8 +5,8 @@
 //  Created by didi on 2019/8/27.
 //
 
-#import "DoraemonAlertUtil.h"
-#import "Doraemoni18NUtil.h"
+#import "DoraemonKit/Src/Core/CommonUI/Alert/DoraemonAlertUtil.h"
+#import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 
 @implementation DoraemonAlertUtil
 

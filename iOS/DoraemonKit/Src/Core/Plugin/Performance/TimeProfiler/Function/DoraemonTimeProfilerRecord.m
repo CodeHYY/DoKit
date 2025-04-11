@@ -5,7 +5,7 @@
 //  Created by yixiang on 2019/7/10.
 //
 
-#import "DoraemonTimeProfilerRecord.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/TimeProfiler/Function/DoraemonTimeProfilerRecord.h"
 
 @implementation DoraemonTimeProfilerRecord
 

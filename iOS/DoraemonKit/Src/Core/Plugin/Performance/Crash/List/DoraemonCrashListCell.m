@@ -5,9 +5,9 @@
 //  Created by wenquan on 2018/11/22.
 //
 
-#import "DoraemonCrashListCell.h"
-#import "DoraemonSandboxModel.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Crash/List/DoraemonCrashListCell.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DoraemonSandboxModel.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonCrashListCell ()
 

@@ -5,11 +5,11 @@
 //  Created by 0xd-cc on 2019/5/15.
 //
 
-#import "DoraemonLargeImageDetectionManager.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonResponseImageModel.h"
-#import "DoraemonNetworkInterceptor.h"
-#import "DoraemonUrlUtil.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/DoraemonLargeImageDetectionManager.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonResponseImageModel.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
 
 static DoraemonLargeImageDetectionManager *instance = nil;
 

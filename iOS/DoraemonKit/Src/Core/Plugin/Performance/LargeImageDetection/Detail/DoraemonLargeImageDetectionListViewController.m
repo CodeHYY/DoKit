@@ -5,10 +5,10 @@
 //  Created by 0xd-cc on 2019/5/15.
 //
 
-#import "DoraemonLargeImageDetectionListViewController.h"
-#import "DoraemonLargeImageDetectionManager.h"
-#import "DoraemonImageDetectionCell.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonLargeImageDetectionListViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Function/DoraemonLargeImageDetectionManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/LargeImageDetection/Detail/DoraemonImageDetectionCell.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonLargeImageDetectionListViewController ()<UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic, strong) UITableView *tableView;

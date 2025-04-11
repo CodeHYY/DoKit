@@ -5,8 +5,8 @@
 //  Created by didi on 2019/10/23.
 //
 
-#import "DoraemonMockDetailSwitch.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/List/DoraemonMockDetailSwitch.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonMockDetailSwitch()
 

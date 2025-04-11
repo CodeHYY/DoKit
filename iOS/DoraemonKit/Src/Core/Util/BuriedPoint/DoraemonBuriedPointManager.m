@@ -5,12 +5,12 @@
 //  Created by didi on 2020/2/23.
 //
 
-#import "DoraemonBuriedPointManager.h"
-#import "DoraemonUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonAppInfoUtil.h"
-#import "DoraemonNetworkUtil.h"
-#import "DoraemonManager.h"
+#import "DoraemonKit/Src/Core/Util/BuriedPoint/DoraemonBuriedPointManager.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
+#import "DoraemonKit/Src/Core/Util/DoraemonNetworkUtil.h"
+#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
 
 @interface DoraemonBuriedPointManager()
 

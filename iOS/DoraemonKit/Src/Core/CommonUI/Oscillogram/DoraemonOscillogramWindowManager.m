@@ -5,12 +5,12 @@
 //  Created by yixiang on 2019/5/16.
 //
 
-#import "DoraemonOscillogramWindowManager.h"
-#import "DoraemonFPSOscillogramWindow.h"
-#import "DoraemonCPUOscillogramWindow.h"
-#import "DoraemonMemoryOscillogramWindow.h"
-#import "DoraemonNetFlowOscillogramWindow.h"
-#import "DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramWindowManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/FPS/Function/DoraemonFPSOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/Memory/Function/DoraemonMemoryOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/View/DoraemonNetFlowOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 
 @interface DoraemonOscillogramWindowManager()
 

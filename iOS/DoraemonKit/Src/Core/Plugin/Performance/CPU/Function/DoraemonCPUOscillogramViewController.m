@@ -5,12 +5,12 @@
 //  Created by yixiang on 2018/1/12.
 //
 
-#import "DoraemonCPUOscillogramViewController.h"
-#import "DoraemonOscillogramView.h"
-#import "DoraemonCPUUtil.h"
-#import "DoraemonDefine.h"
-#import "DoraemonCacheManager.h"
-#import "DoraemonCPUOscillogramWindow.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramViewController.h"
+#import "DoraemonKit/Src/Core/CommonUI/Oscillogram/DoraemonOscillogramView.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUUtil.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/CPU/Function/DoraemonCPUOscillogramWindow.h"
 
 @interface DoraemonCPUOscillogramViewController ()
 

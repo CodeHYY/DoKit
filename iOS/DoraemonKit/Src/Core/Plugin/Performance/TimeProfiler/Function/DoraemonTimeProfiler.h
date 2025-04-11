@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DoraemonTimeProfilerRecord.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/TimeProfiler/Function/DoraemonTimeProfilerRecord.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

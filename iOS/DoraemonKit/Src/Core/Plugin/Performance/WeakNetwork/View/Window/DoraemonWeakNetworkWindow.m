@@ -5,12 +5,12 @@
 //  Created by didi on 2020/3/21.
 //
 
-#import "DoraemonWeakNetworkWindow.h"
-#import "DoraemonDefine.h"
-#import "UIView+Doraemon.h"
-#import "DoraemonStatusBarViewController.h"
-#import "DoraemonWeakNetworkManager.h"
-#import "DoraemonNetworkInterceptor.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/View/Window/DoraemonWeakNetworkWindow.h"
+#import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
+#import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
+#import "DoraemonKit/Src/Core/Base/DoraemonStatusBarViewController.h"
+#import "DoraemonKit/Src/Core/Plugin/Performance/WeakNetwork/Function/DoraemonWeakNetworkManager.h"
+#import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
 
 @interface DoraemonWeakNetworkWindow()
 
