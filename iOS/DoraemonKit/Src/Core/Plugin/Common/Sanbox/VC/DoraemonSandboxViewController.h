@@ -5,7 +5,7 @@
 //  Created by yixiang on 2017/12/11.
 //
 
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 
 @interface DoraemonSandboxViewController : DoraemonBaseViewController
 

@@ -6,7 +6,7 @@
 //
 
 #import "DoraemonKit/Src/Core/include/DoraemonKit.h"
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

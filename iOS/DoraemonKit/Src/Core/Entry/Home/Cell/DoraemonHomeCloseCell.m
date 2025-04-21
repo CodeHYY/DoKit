@@ -6,7 +6,7 @@
 //
 
 #import "DoraemonKit/Src/Core/Entry/Home/Cell/DoraemonHomeCloseCell.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"

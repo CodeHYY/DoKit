@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 @class DoraemonResponseImageModel;
 
 NS_ASSUME_NONNULL_BEGIN

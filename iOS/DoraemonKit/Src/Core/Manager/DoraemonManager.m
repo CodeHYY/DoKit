@@ -5,7 +5,7 @@
 //  Created by yixiang on 2017/12/11.
 //
 #import <UIKit/UIKit.h>
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Entry/Entry/DoraemonEntryWindow.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Protocol/DoraemonStartPluginProtocol.h"

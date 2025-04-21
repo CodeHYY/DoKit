@@ -5,7 +5,7 @@
 //  Created by yixiang on 2018/12/2.
 //
 
-#import "DoraemonKit/Src/Core/Base/View/DoraemonBaseBigTitleView.h"
+#import "DoraemonBaseBigTitleView.h"
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Category/UIView+Doraemon.h"
 #import "DoraemonKit/Src/Core/Category/UIColor+Doraemon.h"

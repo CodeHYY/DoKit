@@ -8,7 +8,7 @@
 #import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/DoraemonKitManagerViewController.h"
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerCell.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
 #import "DoraemonKit/Src/Core/Entry/Home/Settings/KitManager/View/DoraemonKitManagerHeadCell.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"

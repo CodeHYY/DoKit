@@ -10,7 +10,7 @@
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
 #import "DoraemonKit/Src/Core/Util/DoraemonNetworkUtil.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 
 @interface DoraemonBuriedPointManager()
 

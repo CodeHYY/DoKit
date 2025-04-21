@@ -11,7 +11,7 @@
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Util/Doraemoni18NUtil.h"
 #import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonDefaultWebViewController.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Common/H5/DoraemonQRCodeViewController.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 

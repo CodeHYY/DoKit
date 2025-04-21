@@ -6,7 +6,7 @@
 //
 
 #import "DoraemonKit/Src/Core/Base/DoraemonStatusBarViewController.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 
 @interface DoraemonStatusBarViewController ()
 

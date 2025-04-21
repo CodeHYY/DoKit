@@ -14,7 +14,7 @@
 #import <QuickLook/QuickLook.h>
 #import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/Util/DoraemonDBManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Common/Sanbox/VC/DB/DoraemonDBTableViewController.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 
 @interface DoraemonSanboxDetailViewController ()<QLPreviewControllerDelegate,QLPreviewControllerDataSource,UITableViewDelegate,UITableViewDataSource>
 

@@ -6,7 +6,7 @@
 //
 
 #import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/DoraemonFileSyncPlugin.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/FileSync/DoraemonFileSyncViewController.h"
 #import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"
 #import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"

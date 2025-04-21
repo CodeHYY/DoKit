@@ -10,7 +10,7 @@
 #import "DoraemonKit/Src/Core/Network/Interceptor/DoraemonNetworkInterceptor.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Performance/NetFlow/Function/Util/DoraemonUrlUtil.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/Mock/Function/DoraemonMockUtil.h"
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"

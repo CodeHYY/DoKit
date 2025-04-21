@@ -11,7 +11,7 @@
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 #import "DoraemonKit/Src/Core/Category/NSObject+Doraemon.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import <objc/runtime.h>
 #import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Performance/TimeProfiler/Function/DoraemonTimeProfiler.h"

@@ -5,7 +5,7 @@
 //  Created by didi on 2019/11/7.
 //
 
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/Filter/DoraemonMockFilterListView.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/Filter/DoraemonMockFilterButton.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/Mock/View/Search/DoraemonMockSearchView.h"

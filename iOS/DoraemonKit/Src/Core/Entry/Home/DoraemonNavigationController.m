@@ -7,7 +7,7 @@
 //
 
 #import "DoraemonKit/Src/Core/Entry/Home/DoraemonNavigationController.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 
 @interface DoraemonNavigationController ()
 

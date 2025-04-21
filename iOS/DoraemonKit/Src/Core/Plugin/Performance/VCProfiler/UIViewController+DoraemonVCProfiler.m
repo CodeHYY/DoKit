@@ -11,7 +11,7 @@
 #import <objc/runtime.h>
 #import "DoraemonKit/Src/Core/Plugin/Platform/Health/Function/DoraemonHealthManager.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 
 //#define Doraemon_VC_Profiler_LOG_ENABLE 
 

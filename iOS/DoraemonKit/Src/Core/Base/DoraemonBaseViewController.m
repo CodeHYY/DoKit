@@ -6,7 +6,7 @@
 //  Copyright © 2017年 yixiang. All rights reserved.
 //
 
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 #import "DoraemonKit/Src/Core/Base/DoraemonNavBarItemModel.h"
 #import "DoraemonKit/Src/Core/Category/UIImage+Doraemon.h"
 #import "DoraemonKit/Src/Core/Entry/Home/DoraemonHomeWindow.h"

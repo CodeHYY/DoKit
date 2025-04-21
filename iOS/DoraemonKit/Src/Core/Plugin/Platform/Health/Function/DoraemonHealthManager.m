@@ -13,7 +13,7 @@
 #import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 #import "DoraemonKit/Src/Core/Plugin/Common/AppInfo/DoraemonAppInfoUtil.h"
 #import "DoraemonKit/Src/Core/Define/DoraemonDefine.h"
-#import "DoraemonKit/Src/Core/Manager/DoraemonManager.h"
+#import "DoraemonManager.h"
 #import "DoraemonKit/Src/Core/Cache/DoraemonCacheManager.h"
 #import "DoraemonKit/Src/Core/Plugin/Performance/ANR/Function/DoraemonANRManager.h"
 #import "DoraemonKit/Src/Core/Category/UIViewController+Doraemon.h"
@@ -21,7 +21,7 @@
 #import <UIKit/UIKit.h>
 #import "DoraemonKit/Src/Core/Util/DoraemonUtil.h"
 #import "DoraemonKit/Src/Core/Plugin/Platform/Health/View/Window/DoraemonHealthCountdownWindow.h"
-#import "DoraemonKit/Src/Core/Base/DoraemonBaseViewController.h"
+#import "DoraemonBaseViewController.h"
 #import "DoraemonKit/Src/Core/CommonUI/Toast/DoraemonToastUtil.h"
 
 #if __has_include("DoraemonMethodUseTimeManager.h")
